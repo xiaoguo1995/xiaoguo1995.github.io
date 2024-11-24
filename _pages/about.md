@@ -8,6 +8,7 @@ redirect_from:
 ---
 
 <style>body {text-align: justify}</style>
+<br/><img src='/images/About Me.png'>
 
 I am holding a position of Postdoctoral Research Fellow at School of Electrical Engineering and Computer Science, The University of Queensland (Brisbane, Australia). My research interests include scanning near-field optical microscopy (SNOM), terahertz (THz), and nanophotonics.
 
