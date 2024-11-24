@@ -15,6 +15,8 @@ excerpt: "
 
 - Dec. 16, 2022: I obtained my PhD degree! Thanks my adviors (Prof. Aleksandar D. Rakić and Dr. Karl Bertling) and my examination committee (Prof. Roger Lewis, Prof. Mengkun Liu, and committee chair Prof. Markus Barth)! 
 
+- May 2022: Xiao participated 2nd International Nanoscale Analytics Workshop (Munich, Germany) --- for the first time to enter Europe and for the first time see SNOM leading experts face to face, not just on the papers! Bravo!
+
 - 2021: We get a front cover and Edtors' pick-up on APL! (UQ Electrical Engineering and Physics Collaboration)
 
 - January, 2021: My first paper in my PhD get published on APL! My s-SNOM journey begins from here.
