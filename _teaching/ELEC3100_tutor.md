@@ -27,7 +27,8 @@ Course Curriculum
 - Polarisation
 - Poyting Theorem and Power
 - Interface
-- Metallic Waveguide and Rectangular Resonators
+- Metallic Waveguide
+- Gaussian Beam
 - EM Potentials
 - Radiation and Antenna
 
