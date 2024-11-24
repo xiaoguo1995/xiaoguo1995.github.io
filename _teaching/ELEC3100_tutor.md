@@ -4,7 +4,7 @@ collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/ELEC3100_tutor
 venue: "The University of Queensland, School of Electrical Engineering and Computer Science"
-date: 2024-07-01
+date: 2023-07-01
 location: "Brisbane, Australia"
 ---
 <style>body {text-align: justify}</style>
@@ -27,8 +27,7 @@ Course Curriculum
 - Polarisation
 - Poyting Theorem and Power
 - Interface
-- Metallic Waveguide
-- Gaussian Beam
+- Metallic Waveguide and Rectangular Resonators
 - EM Potentials
 - Radiation and Antenna
 
