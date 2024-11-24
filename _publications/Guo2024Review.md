@@ -7,7 +7,7 @@ excerpt: 'An invited reivew article on THz nanoscopy --- challenges, progress, a
 date: 2024-06-01
 venue: 'Applied Physics Reviews'
 # slidesurl: 'http://academicpages.github.io/files/slides3.pdf'
-paperurl: 'http://academicpages.github.io/files/Guo2024Review.pdf'
+paperurl: 'https://xiaoguo1995.github.io/files/Guo2024Review.pdf'
 citation: 'Guo X, Bertling K, Donose BC, Brünig M, Cernescu A, Govyadinov AA, Rakić AD. Terahertz nanoscopy: Advances, challenges, and the road ahead. Applied Physics Reviews. 2024 Jun 1;11(2) 021306.'
 ---
 
