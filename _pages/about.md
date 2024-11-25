@@ -14,7 +14,7 @@ I am holding a position of Postdoctoral Research Fellow at School of Electrical 
 
 I get my PhD in Dec., 2022 from the University of Queensland (Brisbane, Australia) specifically aiming to solve with topic in **THz SNOM inverse problems** to extract complex permittivity and interpret unexpected observations from unknown nanostructures, including compound semiconductor nanodevices.
 
-Before that, I obtained my Master of Science in Engineering (MSE) in Electrical Engineering from the University of Hong Kong (Dec.,2018). My thesis is about **deep learning image segmentation assissted** by generative adversarial network.
+Before that, I obtained my Master of Science in Engineering (MSE) in Electrical Engineering from the University of Hong Kong (Dec.,2018). My thesis is about **deep learning image segmentation** assissted by generative adversarial network.
 
 I received my B.Sc. (Applied Physics) from Northeastern University (June, 2017) with a thesis topic in studying **spin wave dynamics** in magnetic materials via **Landau-Lifshitz-Gilbert equations**. During my 2nd to 3rd year, I stay in nanodevice lab out of my lecture times to work on **piezoelectric nanodevices based on ZnO nanoarrays** with applications in gas sensing and waste water treatment.
 
