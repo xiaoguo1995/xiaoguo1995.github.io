@@ -33,3 +33,8 @@ Education
 - Thesis: Spin wave dynamics in ribbon-shape magnetic materials
 - Undergraduate Research Supervisor: Xinyu XUE [ResearchGate](https://www.researchgate.net/profile/Xinyu-Xue-2)
 
+Service
+------
+- Reviewer: Nature Communications, ACS Photonics, ACS Applied Materials & Interfaces, IEEE Transactions on Terahertz Science and Technology, Optics Letters, Optics Express, Results in Physics, Spectrochimica Acta - Part A: Molecular and Biomolecular Spectroscopy, and Review of Scientific Instruments.
+
+- Conference: Interim chair for morning sessions [THz part] at 2024 International Symposium on Ultrafast Phenomena and THz Waves (ISUPTW 2024), Technical Program Committee Member for 4th International Conference on Advanced Optics & Photonics Research in Engineering.
