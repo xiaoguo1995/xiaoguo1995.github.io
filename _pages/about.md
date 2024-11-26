@@ -10,9 +10,9 @@ redirect_from:
 <style>body {text-align: justify}</style>
 <!-- <br/><img src='/images/About Me.png'> -->
 
-I am a Postdoctoral Research Fellow at The University of Queensland, specialising in terahertz (THz) nanophotonics and scanning near-field optical microscopy (SNOM). I completed my Ph.D. in 2022 at the same institution, focusing on THz SNOM inverse problems for analysing nanostructures.
+I am a Postdoctoral Research Fellow at The University of Queensland (UQ), specialising in terahertz (THz) nanophotonics and scanning near-field optical microscopy (SNOM). I completed my Ph.D. at UQ, focusing on SNOM.
 
-Previously, I earned an M.Sc.(Eng) in Electrical Engineering from The University of Hong Kong (2018), studying deep learning for image segmentation, and a B.Sc. in Applied Physics from Northeastern University (2017), where I researched spin wave dynamics and piezoelectric nanodevices.
+Previously, I earned an M.S. from The University of Hong Kong, studying deep learning for image segmentation, and a B.Sc. from Northeastern University, where I researched spin wave dynamics and piezoelectric nanodevices.
 
 <!-- I am holding a position of Postdoctoral Research Fellow at School of Electrical Engineering and Computer Science, The University of Queensland (Brisbane, Australia). My research interests include scanning near-field optical microscopy (SNOM), terahertz (THz), and nanophotonics.
 
