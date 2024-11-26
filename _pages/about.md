@@ -37,8 +37,8 @@ I received my B.Sc. (Applied Physics) from Northeastern University (June, 2017) 
 - Thesis: Spin wave dynamics in ribbon-shape magnetic materials
 - Undergraduate Research Supervisor: Xinyu XUE [ResearchGate](https://www.researchgate.net/profile/Xinyu-Xue-2) -->
 
-Service
+Professional Service
 ------
-- Reviewer: Nature Communications, ACS Photonics, ACS Applied Materials & Interfaces, IEEE Transactions on Terahertz Science and Technology, Optics Letters, Optics Express, Results in Physics, Spectrochimica Acta - Part A: Molecular and Biomolecular Spectroscopy, and Review of Scientific Instruments.
+- Journal Reviewer: [Nature Communications](https://www.nature.com/ncomms/), [ACS Photonics](https://pubs.acs.org/journal/apchd5), [ACS Applied Materials & Interfaces] (https://pubs.acs.org/journal/aamick), [IEEE Transactions on Terahertz Science and Technology](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=5503871), [Optics Letters](https://opg.optica.org/ol/home.cfm), [Optics Express](https://opg.optica.org/oe/home.cfm), [Results in Physics](https://www.sciencedirect.com/journal/results-in-physics), [Spectrochimica Acta - Part A: Molecular and Biomolecular Spectroscopy](https://www.sciencedirect.com/journal/spectrochimica-acta-part-a-molecular-and-biomolecular-spectroscopy), and [Review of Scientific Instruments](https://pubs.aip.org/aip/rsi).
 
 - Conference: Interim chair for morning sessions [THz part] at 2024 International Symposium on Ultrafast Phenomena and THz Waves (ISUPTW 2024), Technical Program Committee Member for 4th International Conference on Advanced Optics & Photonics Research in Engineering.
