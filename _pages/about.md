@@ -10,13 +10,17 @@ redirect_from:
 <style>body {text-align: justify}</style>
 <!-- <br/><img src='/images/About Me.png'> -->
 
-I am holding a position of Postdoctoral Research Fellow at School of Electrical Engineering and Computer Science, The University of Queensland (Brisbane, Australia). My research interests include scanning near-field optical microscopy (SNOM), terahertz (THz), and nanophotonics.
+I am a Postdoctoral Research Fellow at The University of Queensland, specialising in terahertz (THz) nanophotonics and scanning near-field optical microscopy (SNOM). I completed my Ph.D. in 2022 at the same institution, focusing on THz SNOM inverse problems for analysing nanostructures.
+
+Previously, I earned an M.Sc.(Eng) in Electrical Engineering from The University of Hong Kong (2018), studying deep learning for image segmentation, and a B.Sc. in Applied Physics from Northeastern University (2017), where I researched spin wave dynamics and piezoelectric nanodevices.
+
+<!-- I am holding a position of Postdoctoral Research Fellow at School of Electrical Engineering and Computer Science, The University of Queensland (Brisbane, Australia). My research interests include scanning near-field optical microscopy (SNOM), terahertz (THz), and nanophotonics.
 
 I get my PhD in Dec., 2022 from the University of Queensland (Brisbane, Australia) specifically for **THz SNOM inverse problems** to extract complex permittivity and interpret unexpected observations from unknown nanostructures, e.g., compound semiconductor nanodevices.
 
 Before that, I obtained my Master of Science in Engineering (MSE) in Electrical Engineering from the University of Hong Kong (Dec.,2018). My thesis is about **deep learning image segmentation** assissted by generative adversarial network.
 
-I received my B.Sc. (Applied Physics) from Northeastern University (June, 2017) with a thesis topic in studying **spin wave dynamics** in magnetic materials via **Landau-Lifshitz-Gilbert equations**. During my 2nd to 3rd year, I stay in nanodevice lab out of my lecture times to work on **piezoelectric nanodevices based on ZnO nanoarrays** with applications in gas sensing and waste water treatment.
+I received my B.Sc. (Applied Physics) from Northeastern University (June, 2017) with a thesis topic in studying **spin wave dynamics** in magnetic materials via **Landau-Lifshitz-Gilbert equations**. During my 2nd to 3rd year, I stay in nanodevice lab out of my lecture times to work on **piezoelectric nanodevices based on ZnO nanoarrays** with applications in gas sensing and waste water treatment. -->
 
 <!-- Education
 ------
