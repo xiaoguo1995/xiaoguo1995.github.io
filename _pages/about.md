@@ -39,6 +39,24 @@ I received my B.Sc. (Applied Physics) from Northeastern University (June, 2017) 
 
 Professional Service
 ------
-- Journal Reviewer: [Nature Communications](https://www.nature.com/ncomms/), [ACS Photonics](https://pubs.acs.org/journal/apchd5), [ACS Appl. Mater. Interfaces.](https://pubs.acs.org/journal/aamick), [IEEE Trans. Terahertz Sci. Technol.](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=5503871), [Optics Letters](https://opg.optica.org/ol/home.cfm), [Optics Express](https://opg.optica.org/oe/home.cfm), [Results Phys.](https://www.sciencedirect.com/journal/results-in-physics), [Spectrochim. Acta - A: Mol. Biomol. Spectrosc.](https://www.sciencedirect.com/journal/spectrochimica-acta-part-a-molecular-and-biomolecular-spectroscopy), and [Rev. Sci. Instrum.](https://pubs.aip.org/aip/rsi).
+### Journal Reviewer: 
+- [Nature Communications](https://www.nature.com/ncomms/), 
+- [ACS Photonics](https://pubs.acs.org/journal/apchd5), 
+- [ACS Appl. Mater. Interfaces.](https://pubs.acs.org/journal/aamick), 
+- [IEEE Trans. Terahertz Sci. Technol.](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=5503871), 
+- [Optics Letters](https://opg.optica.org/ol/home.cfm), 
+- [Optics Express](https://opg.optica.org/oe/home.cfm), 
+- [Results Phys.](https://www.sciencedirect.com/journal/results-in-physics), 
+- [Spectrochim. Acta - A: Mol. Biomol. Spectrosc.](https://www.sciencedirect.com/journal/spectrochimica-acta-part-a-molecular-and-biomolecular-spectroscopy), 
+- [Rev. Sci. Instrum.](https://pubs.aip.org/aip/rsi).
 
-- Conference: Interim chair for morning sessions [THz part] at 2024 International Symposium on Ultrafast Phenomena and THz Waves (ISUPTW 2024), Technical Program Committee Member for 4th International Conference on Advanced Optics & Photonics Research in Engineering.
+### Conference Reviewer: 
+- Conference on Neural Information Processing Systems (NeurIPS),
+- International Conference on Optical Communication and Optical Information Processing (OCOIP).
+
+### Conferences: 
+- Session Chair:
+  -  Interim chair of morning sessions [THz part] for 2024 International Symposium on Ultrafast Phenomena and THz Waves (ISUPTW 2024).
+
+- Technical Program Committee Member:
+  - 4th International Conference on Advanced Optics & Photonics Research in Engineering.
