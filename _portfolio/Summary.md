@@ -1,7 +1,7 @@
 ---
 title: "Diary of my career progression [post-2022.Dec]"
 excerpt: "
-- **Dec. 1-6, 2024**: Xiao will give an oral presentation as well as a 30-min talk for attocube s-SONM workshop in NFO-17 / AIP Congress 2024 [held in Melbourne]! It is the first time for Xiao to attend near-field optics conferences! Stay tuned!
+- **Dec. 1-6, 2024**: Xiao will give an oral presentation as well as a 30-min talk for attocube s-SONM workshop in NFO-17 / AIP Congress 2024 [held in Melbourne]! It is the first time for Xiao to attend near-field optics conferences! Stay tuned! [Update: Amazing vibes! Looking forward to NFO-18 in Brno, Czech Republic]
 
 - **Nov. 15-18, 2024**: Xiao has been honoured to ask as the interim chair for morning sessions in ISUPTW 2024 [THz part] and also delivered an invited talk about THz nanoscopy. (Thanks Prof. Tianwu Wang)
 
