@@ -1,5 +1,6 @@
 ---
 title: "ISUPTW 2024 (Guangzhou)"
+date: 2024-11-16 15:35:00
 excerpt: "My first time serving as a conference session chair. <br/><img src='/images/ISUPTW2024_1.jpg'><br/><img src='/images/ISUPTW2024_2.jpg'>"
 collection: portfolio
 ---
