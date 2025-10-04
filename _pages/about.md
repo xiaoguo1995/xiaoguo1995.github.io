@@ -10,7 +10,7 @@ redirect_from:
 <style>body {text-align: justify}</style>
 <!-- <br/><img src='/images/About Me.png'> -->
 
-I am a Postdoctoral Research Fellow at The University of Queensland (UQ), specialising in terahertz (THz) nanophotonics and scanning near-field optical microscopy (SNOM). I completed my Ph.D. at UQ, focusing on SNOM.
+I am a Postdoctoral Research Fellow at The University of Queensland (UQ), specialising in terahertz (THz) nanophotonics and scanning near-field optical microscopy (SNOM). I completed my Ph.D. at UQ, focusing on SNOM. I'm a lecturer and coteach third-year course: ELEC3100 Fundamentals of Electromagnetic Waves and Fields with Prof. Aleksandar. D. Rakic since 2024.
 
 Previously, I earned an M.S. from The University of Hong Kong, studying deep learning for image segmentation, and a B.Sc. from Northeastern University, where I researched spin wave dynamics and piezoelectric nanodevices.
 
@@ -39,21 +39,30 @@ I received my B.Sc. (Applied Physics) from Northeastern University (June, 2017) 
 
 Professional Service
 ------
-### Journal Reviewer: 
+### Journal Editorial Board Member (Youth): 
+- [PhotoniX Life](https://photonixlife.com/) --- a companion journal of PhotoniX, but tailored specifically for life science applications. 
+
+### Journal Reviewer (> 15 journals): 
 - [Light: Science & Applications](https://www.nature.com/lsa/editorial-board),
 - [Nature Communications](https://www.nature.com/ncomms/), 
 - [ACS Photonics](https://pubs.acs.org/journal/apchd5), 
 - [ACS Appl. Mater. Interfaces.](https://pubs.acs.org/journal/aamick), 
+- [TrAC, Trends Anal. Chem.](https://www.sciencedirect.com/journal/trac-trends-in-analytical-chemistry)
 - [IEEE Trans. Terahertz Sci. Technol.](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=5503871), 
 - [Optics Letters](https://opg.optica.org/ol/home.cfm), 
 - [Optics Express](https://opg.optica.org/oe/home.cfm), 
 - [Results Phys.](https://www.sciencedirect.com/journal/results-in-physics), 
 - [Spectrochim. Acta - A: Mol. Biomol. Spectrosc.](https://www.sciencedirect.com/journal/spectrochimica-acta-part-a-molecular-and-biomolecular-spectroscopy), 
-- [Rev. Sci. Instrum.](https://pubs.aip.org/aip/rsi).
+- [Rev. Sci. Instrum.](https://pubs.aip.org/aip/rsi),
+- [Optics and Laser Technology](https://www.sciencedirect.com/journal/optics-and-laser-technology)
+
+### External Grant Reviewer:
+- Somewhere in Europe (****)
 
 ### Conference Reviewer: 
 - Conference on Neural Information Processing Systems (NeurIPS),
 - International Conference on Optical Communication and Optical Information Processing (OCOIP).
+- International Academic Conference on Optics and Photonics (IACOP)
 
 ### Conferences: 
 - Session Chair:
