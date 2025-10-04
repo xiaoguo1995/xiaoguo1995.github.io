@@ -10,7 +10,7 @@ redirect_from:
 <style>body {text-align: justify}</style>
 <!-- <br/><img src='/images/About Me.png'> -->
 
-I am a Postdoctoral Research Fellow at The University of Queensland (UQ), specialising in terahertz (THz) nanophotonics and scanning near-field optical microscopy (SNOM). I completed my Ph.D. at UQ, focusing on SNOM. I'm a lecturer and coteach third-year course: ELEC3100 Fundamentals of Electromagnetic Waves and Fields with Prof. Aleksandar. D. Rakic since 2024.
+I am a Postdoctoral Research Fellow in Aleks Rakic group (Photonics Engineering Group) at The University of Queensland (UQ), specialising in terahertz (THz) nanophotonics and scanning near-field optical microscopy (SNOM). I completed my Ph.D. at UQ, focusing on SNOM. I'm a lecturer and co-teach third-year course: ELEC3100 Fundamentals of Electromagnetic Waves and Fields with Prof. Aleksandar D. Rakić[https://about.uq.edu.au/experts/473] since 2024.
 
 Previously, I earned an M.S. from The University of Hong Kong, studying deep learning for image segmentation, and a B.Sc. from Northeastern University, where I researched spin wave dynamics and piezoelectric nanodevices.
 
