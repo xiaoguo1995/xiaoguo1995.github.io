@@ -40,7 +40,7 @@ I received my B.Sc. (Applied Physics) from Northeastern University (June, 2017) 
 Professional Service
 ------
 ### Journal Editorial Board Member (Youth): 
-- [PhotoniX Life](https://photonixlife.com/) --- a companion journal of PhotoniX, but tailored specifically for life science applications. 
+- [PhotoniX Life](https://photonixlife.com/) --- a companion journal of PhotoniX [IF:19], tailored specifically for life science. Prof. Aleksandar D. Rakić is editor of PhotoniX Life as well. High-quality photonics-related manuscripts lie within the scope of the journal are highly appreciated and welcomed! 
 
 ### Journal Reviewer (> 15 journals): 
 - [Light: Science & Applications](https://www.nature.com/lsa/editorial-board),
