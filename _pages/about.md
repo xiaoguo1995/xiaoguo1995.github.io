@@ -40,7 +40,7 @@ I received my B.Sc. (Applied Physics) from Northeastern University (June, 2017) 
 Professional Service
 ------
 ### Journal Editorial Board Member (Youth): 
-- [*PhotoniX Life*](https://photonixlife.com/) --- As a life science–focused companion to *PhotoniX* [IF: 19] the journal welcomes high-quality manuscripts in photonics and related disciplines!
+- [*PhotoniX Life*](https://photonixlife.com/) --- As a life science–focused companion to *PhotoniX* [IF: 19] the journal welcomes cutting-edge research (and reviews) in photonics and its applications to biology and life sciences.
 
 ### Journal Reviewer (> 15 journals): 
 - [*Light: Science & Applications*](https://www.nature.com/lsa/editorial-board),
