@@ -6,8 +6,15 @@ redirect_from:
   - /about/
   - /about.html
 ---
-
-<style>body {text-align: justify}</style>
+<style>
+body { text-align: justify; }
+.__dimensions_badge_embed__ {
+  display: inline-block;
+  margin-left: 0.25em;
+  vertical-align: middle;
+}
+</style>
+<!-- <style>body {text-align: justify}</style> -->
 <!-- <br/><img src='/images/About Me.png'> -->
 
 I am a Postdoctoral Research Fellow in Aleks Rakic group (Photonics Engineering Group) at The University of Queensland (UQ), specialising in terahertz (THz) nanophotonics and scanning near-field optical microscopy (SNOM). I completed my Ph.D. at UQ, focusing on SNOM. I'm a lecturer and co-teach a third-year course: ELEC3100 Fundamentals of Electromagnetic Waves and Fields with Prof. [Aleksandar D. Rakić](https://about.uq.edu.au/experts/473) since 2024.
@@ -39,11 +46,19 @@ I received my B.Sc. (Applied Physics) from Northeastern University (June, 2017) 
 
 Publications
 ------
-- A review article on terahertz optical nanoscopy, *Applied Physics Review*<span class="__dimensions_badge_embed__" data-doi="10.1063/5.0189061"></span><script async src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script>
-- Optical constants from terahertz s-SNOM and applications on semiconductor quantum devices, 
--- *Applied Physics Letters* (Nature Index journal)<span class="__dimensions_badge_embed__" data-doi="10.1063/5.0036872"></span><script async src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script> <span class="__dimensions_badge_embed__" data-doi="10.1063/5.0061078"></span><script async src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script> 
--- *Nanophotonics*<span class="__dimensions_badge_embed__" data-doi="10.1515/nanoph-2023-0064"></span><script async src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script>
--- *The Journal of Physical Chemistry Letters* (Nature Index journal)<span class="__dimensions_badge_embed__" data-doi="10.1021/acs.jpclett.3c00850"></span><script async src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script>
+- A review article on terahertz optical nanoscopy, *Applied Physics Review*
+  <span class="__dimensions_badge_embed__" data-doi="10.1063/5.0189061"></span>
+
+- Optical constants from terahertz s-SNOM and applications on semiconductor quantum devices:
+  - *Applied Physics Letters* (Nature Index journal)
+    <span class="__dimensions_badge_embed__" data-doi="10.1063/5.0036872"></span>
+    <span class="__dimensions_badge_embed__" data-doi="10.1063/5.0061078"></span>
+  - *Nanophotonics*
+    <span class="__dimensions_badge_embed__" data-doi="10.1515/nanoph-2023-0064"></span>
+  - *The Journal of Physical Chemistry Letters* (Nature Index journal)
+    <span class="__dimensions_badge_embed__" data-doi="10.1021/acs.jpclett.3c00850"></span>
+
+<script async src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script>
 
 Professional Service
 ------
