@@ -9,7 +9,7 @@ My first time to deliver a 20-min talk about UQ Photonics Engineering Group work
 
 Thanks Shaghik Atakaramians, Dominik Vogt and UNSW team to organise this year workshop!
 
-UQ wins the host of 13th Australia-New Zealand Terahertz Workshop in 2026. See everyone on Brisbane in 2026 : )
+UQ wins the host of 13th Australia-New Zealand Terahertz Workshop in 2026. See everyone 2026 in Brisbane : )
 <br/><img src='/images/AUNZTHzWorkshop2025.png'>
 <br/><img src='/images/2026THzWorkshopVotes.png'>
 <br/><img src='/images/2025THzWorkshopAgenda.png'>
