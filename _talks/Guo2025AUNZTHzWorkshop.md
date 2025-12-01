@@ -1,9 +1,9 @@
 ---
-title: "Terahertz nanoscopy of collective excitations for quantum technologies"
+title: "The 12th Australia-New Zealand Terahertz Workshop (AUNZ THz Workshop 2025)"
 collection: talks
 type: "Talk"
 permalink: /talks/Guo2025AUNZTHzWorkshop
-venue: "The 12th Australia-New Zealand Terahertz Workshop (AUNZ THz Workshop 2025)"
+venue: "The University of New South Wales (UNSW)"
 date: 2025-12-01
 location: "Sydney, Australia"
 ---
