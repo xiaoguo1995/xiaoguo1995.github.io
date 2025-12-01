@@ -12,3 +12,5 @@ Delivered a 20-min talk on UQ Photonics Engineering group work in THz, on behalf
 
 See everyone 2026 in Brisbane : )
 <br/><img src='/images/AUNZTHzWorkshop2025.png'>
+<br/><img src='/images/2025THzWorkshopAgenda.png'>
+<br/><img src='/images/2026THzWorkshopVotes.png'>
