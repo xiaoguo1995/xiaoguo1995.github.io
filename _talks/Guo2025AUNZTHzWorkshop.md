@@ -4,7 +4,7 @@ collection: talks
 type: "Talk"
 permalink: /talks/Guo2025AUNZTHzWorkshop
 venue: "The University of New South Wales (UNSW)"
-date: 2025-12-01
+date: 2025-11-27
 location: "Sydney, Australia"
 ---
 
