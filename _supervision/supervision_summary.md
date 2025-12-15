@@ -1,7 +1,7 @@
 ---
 title: "The Excellent Next Generation"
 collection: supervision
-layout: single
+layout: talk
 permalink: /supervision/supervision_summary
 venue: "The University of Queensland, School of Electrical Engineering and Computer Science"
 date: 2025-12-15
