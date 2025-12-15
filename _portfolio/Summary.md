@@ -3,7 +3,7 @@ title: "Diary of my career progression [post-2022.Dec]"
 date: 2099-12-31 00:00:00
 # priority: 0
 excerpt: "
-- **Nov. 27-28, 2025**: The 12th Australia-New Zealand Terahertz Workshop (AUNZ THz Workshop 2025) in UNSW Sydney, Australia. I delivered a 20-min talk about UQ Photonics Engineering Group work (on behalf of Prof. Aleksandar D. Rakić). UQ wins the host of 13th Australia-New Zealand Terahertz Workshop in 2026. See everyone on Brisbane in 2026 : ) 
+- **Nov. 27-28, 2025**: The 12th Australia-New Zealand Terahertz Workshop (AUNZ THz Workshop 2025) in UNSW Sydney, Australia. I delivered a 20-min talk about UQ Photonics Engineering Group work (on behalf of Prof. Aleksandar D. Rakić). UQ wins the host of 13th Australia-New Zealand Terahertz Workshop in 2026. See everyone at UQ in Brisbane in 2026 : ) 
 
 - **Aug. 17-22, 2025**: IRMMW-THz 2025 in Finland. A 15-min oral presented by Jari; Sad cannot speak my session due to teaching tasks. Let's meet in 2026 somewhere face to face again.
 
