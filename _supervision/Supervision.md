@@ -16,7 +16,6 @@ excerpt: >
 - **April 7, 2025**: Kudo to Daniella's co-authorship on IRMMW-THz 2025 conference paper!   
 
 ---
-<style>body {text-align: justify}</style>
 
 **Congrats to my students**
 
