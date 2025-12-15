@@ -6,7 +6,7 @@ permalink: /supervision/supervision_summary
 venue: "The University of Queensland, School of Electrical Engineering and Computer Science"
 date: 2025-12-15
 location: "Brisbane, Australia"
-excerpt: >
+excerpt: "
 - **Dec. 8th, 2025**: Congrats to Mengfei, Sejun, Shaoyu, Haitao, Qiao, Marjet, and Zhiyu's completion of thesis! Best wishes for your next stages of life!
 
 - **Nov. 26, 2025**: Kudo to Seijun's progress in his honour thesis for winning 2025 UQ EECS illuminates for Best Biomedical Device or Systems (sponsored by Cochlear)!
@@ -14,7 +14,7 @@ excerpt: >
 - **Oct. 2, 2025**:  Kudo to Seijun's winning as the 1st place for Institution of Engineering and Technology (IET) Queensalnd (QLD) / Engineers Australia Student Presentation Competition Final 2025! (the sole representative of UQ)
 
 - **April 7, 2025**: Kudo to Daniella's co-authorship on IRMMW-THz 2025 conference paper!   
-
+"
 ---
 
 **Congrats to my students**
