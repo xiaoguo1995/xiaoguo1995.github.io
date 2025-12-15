@@ -1,17 +1,19 @@
 ---
 title: "The Excellent Next Generation"
 collection: supervision
-permalink: /supervision/UGMSc
+permalink: /supervision/Summary
 venue: "The University of Queensland, School of Electrical Engineering and Computer Science"
 date: 2025-12-15
 location: "Brisbane, Australia"
 # priority: 0
 excerpt: "
-- **Nov. 26, 2025**: Kudo to Seijun's progress in his honour thesis for winning 2025 UQ EECS illuminates for Best Biomedical Device or Systems!
+- **Dec. 8th, 2025**: Congrats to Mengfei, Sejun, Shaoyu, Haitao, Qiao, Marjet, and Zhiyu graduation! Best wishes for your next stages of life!
 
-- **Aug. 17-22, 2025**: 
+- **Nov. 26, 2025**: Kudo to Seijun's progress in his honour thesis for winning 2025 UQ EECS illuminates for Best Biomedical Device or Systems (sponsored by Cochlear)!
 
-- **January, 2022**: 
+- **Oct. 2, 2025**:  Kudo to Seijun's winning as the 1st place for Institution of Engineering and Technology (IET) Queensalnd (QLD) / Engineers Australia Student Presentation Competition Final 2025! (the sole representative of UQ)
+
+- **April 7, 2025**: Kudo to Daniella co-authorship on IRMMW-THz 2025 conference paper!   
 "
 
 ---
