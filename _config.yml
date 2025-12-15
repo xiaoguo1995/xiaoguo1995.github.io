@@ -224,7 +224,9 @@ collections:
   talks:
     output: true
     permalink: /:collection/:path/
-
+  supervision:
+    output: true
+    permalink: /supervision/:path/
 
 # These settings control how pages and collections are included in the site
 defaults:
