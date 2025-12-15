@@ -12,7 +12,7 @@ excerpt: "
 
 - **Oct. 2, 2025**:  Kudo to Seijun's winning as the 1st place for Institution of Engineering and Technology (IET) Queensalnd (QLD) / Engineers Australia Student Presentation Competition Final 2025! (the sole representative of UQ)
 
-- **April 7, 2025**: Kudo to Daniella co-authorship on IRMMW-THz 2025 conference paper!   
+- **April 7, 2025**: Kudo to Daniella's co-authorship on IRMMW-THz 2025 conference paper!   
 "
 
 ---
