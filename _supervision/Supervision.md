@@ -1,11 +1,12 @@
 ---
 title: "The Excellent Next Generation"
 collection: supervision
+layout: single
 permalink: /supervision/Summary
 venue: "The University of Queensland, School of Electrical Engineering and Computer Science"
 date: 2025-12-15
 location: "Brisbane, Australia"
-excerpt: "
+excerpt: >
 - **Dec. 8th, 2025**: Congrats to Mengfei, Sejun, Shaoyu, Haitao, Qiao, Marjet, and Zhiyu's completion of thesis! Best wishes for your next stages of life!
 
 - **Nov. 26, 2025**: Kudo to Seijun's progress in his honour thesis for winning 2025 UQ EECS illuminates for Best Biomedical Device or Systems (sponsored by Cochlear)!
@@ -13,7 +14,6 @@ excerpt: "
 - **Oct. 2, 2025**:  Kudo to Seijun's winning as the 1st place for Institution of Engineering and Technology (IET) Queensalnd (QLD) / Engineers Australia Student Presentation Competition Final 2025! (the sole representative of UQ)
 
 - **April 7, 2025**: Kudo to Daniella's co-authorship on IRMMW-THz 2025 conference paper!   
-"
 
 ---
 <style>body {text-align: justify}</style>
@@ -38,3 +38,4 @@ excerpt: "
 
 - Daniella Belonohy: Dani is my 2025 summer reserach project student and she is interested in bio-related application as an electrical engineer in real worlds. She has co-authored a peer-reviewed conference paper for IRMMW-THz 2025 (held in Finland). If you are looking for a delicated person to work on cool stuff with high commitments, please consider her.
 
+- Michael Plackowski: Michael is my 2024 summer reserach project student (co-supervised by Aleks :)). He is now a Graduate RF design engineer at Syndetic PTY Ltd (Brisbane).
