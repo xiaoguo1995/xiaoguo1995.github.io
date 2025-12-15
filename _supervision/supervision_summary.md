@@ -7,7 +7,7 @@ venue: "The University of Queensland, School of Electrical Engineering and Compu
 date: 2025-12-15
 location: "Brisbane, Australia"
 excerpt: "
-- **Dec. 8th, 2025**: Congrats to Mengfei, Sejun, Shaoyu, Haitao, Qiao, Marjet, and Zhiyu's completion of thesis! Best wishes for your next stages of life!
+- **Dec. 8th, 2025**: Congrats to Mengfei, Sejun, Shaoyu, Haitao, Qiao, Marjet, and Zhiyu on completing theses! Best wishes for your next stages of life!
 
 - **Nov. 26, 2025**: Kudo to Seijun's progress in his honour thesis for winning 2025 UQ EECS illuminates for Best Biomedical Device or Systems (sponsored by Cochlear)!
 
