@@ -19,7 +19,7 @@ excerpt: "
 
 **Congrats to my students**
 
-- Seijun Stokes (co-supervised with Aleks : )): Seijun is an Electrical Engineering / Biomedical Engineering Student and he is eager and delicated to do cool stuff for his PhD in Germany (EU). He has applied for PhD programs in a few places and waiting for results. If you come across this website and has an interesting bio-related project with PhD scholarship, please consider him : )
+- Seijun Stokes (co-supervised with Aleks : )): Seijun is an Electrical Engineering / Biomedical Engineering Student and he is eager and delicated to do cool stuff for his PhD in Switzerland or Germany (EU). He has applied for PhD programs in a few places and waiting for results. If you come across this website and has an interesting bio-related project with PhD scholarship, please consider him : )
 <br/><img src='/images/Seijun2025ThesisCongrats2.png'>
 <br/><img src='/images/Seijun2025illuminates.png'>
 
