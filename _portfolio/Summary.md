@@ -3,7 +3,7 @@ title: "Diary of my career progression [post-2022.Dec]"
 date: 2099-12-31 00:00:00
 # priority: 0
 excerpt: "
-- **Dec. 8th, 2025**: Congrats to Mengfei, Sejun, Shaoyu, Haitao, Qiao, Marjet, and Zhiyu on completing theses! Best wishes for your next stages of life!
+- **Dec. 8th, 2025**: Congrats to Mengfei, Seijun, Shaoyu, Haitao, Qiao, Marjet, and Zhiyu on completing theses! Best wishes for your next stages of life!
 
 - **Nov. 27-28, 2025**: The 12th Australia-New Zealand Terahertz Workshop (AUNZ THz Workshop 2025) in UNSW Sydney, Australia. I delivered a 20-min talk about UQ Photonics Engineering Group work (on behalf of Prof. Aleksandar D. Rakić). UQ wins the host of 13th Australia-New Zealand Terahertz Workshop in 2026. See everyone at UQ in Brisbane in 2026 : ) 
 
