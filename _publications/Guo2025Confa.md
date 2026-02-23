@@ -3,7 +3,7 @@ title: "Near-Field Optical Microscopy for Spatially Confined Nanostructures"
 collection: publications
 category: conferences
 permalink: /publication/Guo2025Confa
-excerpt: 'IRMMW-THz 2025, 20-min oral presentation.'
+excerpt: 'IRMMW-THz 2025, 12-min oral presentation.'
 date: 2025-08-17
 venue: '2025 50th International Conference on Infrared, Millimeter, and Terahertz Waves'
 # paperurl: 'http://academicpages.github.io/files/paper3.pdf'
