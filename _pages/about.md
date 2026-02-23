@@ -49,6 +49,9 @@ Publications
 - A review article on terahertz optical nanoscopy, *Applied Physics Review*
   <span class="__dimensions_badge_embed__" data-doi="10.1063/5.0189061"></span>
 
+- A SNOM chapter on Quantum cascade laser roadmap, *Journal of Physics: Photonics*
+  [*arXiv version*](https://doi.org/10.48550/arXiv.2602.17042)
+
 - Optical constants from terahertz s-SNOM and applications on semiconductor quantum devices:
   - *Applied Physics Letters* (Nature Index journal)
     <span class="__dimensions_badge_embed__" data-doi="10.1063/5.0036872"></span>
