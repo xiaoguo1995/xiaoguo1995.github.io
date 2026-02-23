@@ -4,7 +4,7 @@ collection: publications
 category: manuscripts
 permalink: /publication/Guo2026SOMChapterQCLRoadmap
 excerpt: "A SNOM chapter for mid-infrared waves in Quantum Cascade Laser Roadmap.<br/><img src='/images/Guo2026SNOMChapterQCLRoadmap.png'>"
-date: 2024-06-01
+date: 2026-02-19
 venue: 'Journal of Physics: Photonics'
 # slidesurl: 'http://academicpages.github.io/files/slides3.pdf'
 paperurl: 'https://arxiv.org/pdf/2602.17042'
