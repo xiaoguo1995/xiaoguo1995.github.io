@@ -3,7 +3,7 @@ title: "Diary of my career progression [post-2022.Dec]"
 date: 2099-12-31 00:00:00
 # priority: 0
 excerpt: "
-- **Feb. 19th, 2026**: Bravo the arXiv version of QCL roadmap is online! A honour to have good vibes with Ranier, Mengkun, Adrian, and Sasha on the SNOM chapter [4.6 Advances in Near Field Optical Microscopy Based on Infrared Quantum Cascade Lasers] :) Hope SNOM will be more useful in more applications in the future. 
+- **Feb. 19th, 2026**: Bravo the arXiv version of QCL roadmap is online! A honour to have good vibes with Rainer, Mengkun, Adrian, and Sasha on the SNOM chapter [4.6 Advances in Near Field Optical Microscopy Based on Infrared Quantum Cascade Lasers] :) Hope SNOM will be more useful in more applications in the future. 
 
 - **Dec. 8th, 2025**: Congrats to Mengfei, Seijun, Shaoyu, Haitao, Qiao, Marjet, and Zhiyu on completing theses! Best wishes for your next stages of life!
 
