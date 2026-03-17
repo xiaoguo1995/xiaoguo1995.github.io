@@ -68,7 +68,7 @@ Professional Service
 ### Journal Editorial Board Member (Youth): 
 - [*PhotoniX Life*](https://www.sciengine.com/PXLIFE/home) --- As a life science–focused companion to *PhotoniX* [IF: 19] the journal welcomes cutting-edge research (and reviews) in photonics and its applications to biology and life sciences.
 
-### Journal Reviewer (> 15 journals): 
+### Journal Reviewer (20+ journals): 
 - [*Light: Science & Applications*](https://www.nature.com/lsa/editorial-board),
 - [*Nature Communications*](https://www.nature.com/ncomms/), 
 - [*ACS Photonics*](https://pubs.acs.org/journal/apchd5), 
