@@ -4,7 +4,7 @@ collection: supervision
 layout: talk
 permalink: /supervision/supervision_summary/
 venue: "The University of Queensland, School of Electrical Engineering and Computer Science"
-date: 2025-12-15
+date: 2026-04-11
 location: "Brisbane, Australia"
 excerpt: "
 - **Dec. 8th, 2025**: Congrats to Mengfei, Seijun, Shaoyu, Haitao, Qiao, Marjet, and Zhiyu on completing theses! Best wishes for your next stages of life!
