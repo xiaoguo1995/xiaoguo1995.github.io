@@ -44,7 +44,7 @@ I received my B.Sc. (Applied Physics) from Northeastern University (June, 2017) 
 - Thesis: Spin wave dynamics in ribbon-shape magnetic materials
 - Undergraduate Research Supervisor: Xinyu XUE [ResearchGate](https://www.researchgate.net/profile/Xinyu-Xue-2) -->
 
-Publications
+Selected Publications
 ------
 - A SNOM chapter on Quantum cascade laser roadmap, *Journal of Physics: Photonics*
   [*arXiv version*](https://doi.org/10.48550/arXiv.2602.17042)
