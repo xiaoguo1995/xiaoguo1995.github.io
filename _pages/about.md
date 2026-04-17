@@ -63,7 +63,7 @@ Selected Publications
 
 <script async src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script>
 
-- Nanoscale chemical composition and functional group spatial distribution <50 nm
+- Nanoscale chemical composition and functional group spatial distribution (<50 nm)
   - Nanocasle interdiffusion of degradable polymer blended phases: *Composites Part A: Applied Science and Manufacturing* 
     <span class="__dimensions_badge_embed__" data-doi="10.1001/jama.2016.9797">
       
