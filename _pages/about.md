@@ -46,11 +46,11 @@ I received my B.Sc. (Applied Physics) from Northeastern University (June, 2017) 
 
 Publications
 ------
-- A review article on terahertz optical nanoscopy, *Applied Physics Review*
-  <span class="__dimensions_badge_embed__" data-doi="10.1063/5.0189061"></span>
-
 - A SNOM chapter on Quantum cascade laser roadmap, *Journal of Physics: Photonics*
   [*arXiv version*](https://doi.org/10.48550/arXiv.2602.17042)
+
+- A review article on terahertz optical nanoscopy, *Applied Physics Review*
+  <span class="__dimensions_badge_embed__" data-doi="10.1063/5.0189061"></span>
 
 - Optical constants from terahertz s-SNOM and applications on semiconductor quantum devices:
   - *Applied Physics Letters* (Nature Index journal)
@@ -74,13 +74,15 @@ Professional Service
 - [*ACS Photonics*](https://pubs.acs.org/journal/apchd5), 
 - [*ACS Appl. Mater. Interfaces.*](https://pubs.acs.org/journal/aamick), 
 - [*TrAC, Trends Anal. Chem.*](https://www.sciencedirect.com/journal/trac-trends-in-analytical-chemistry),
+- [*Communications Physics*](https://www.nature.com/commsphys/),
 - [*IEEE Trans. Terahertz Sci. Technol.*](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=5503871), 
 - [*Optics Letters*](https://opg.optica.org/ol/home.cfm), 
 - [*Optics Express*](https://opg.optica.org/oe/home.cfm), 
 - [*Spectrochim. Acta - A: Mol. Biomol. Spectrosc.*](https://www.sciencedirect.com/journal/spectrochimica-acta-part-a-molecular-and-biomolecular-spectroscopy), 
 - [*Rev. Sci. Instrum.*](https://pubs.aip.org/aip/rsi),
 - [*Optics and Laser Technology*](https://www.sciencedirect.com/journal/optics-and-laser-technology),
-- [*Results Phys.*](https://www.sciencedirect.com/journal/results-in-physics)
+- [*Results Phys.*](https://www.sciencedirect.com/journal/results-in-physics),
+- [*IEEE Photonics Journal*](https://ieeephotonics.org/publications/photonics-journal/), 
 
 ### External Grant Reviewer:
 - Somewhere in Europe (****)
