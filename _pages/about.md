@@ -82,19 +82,19 @@ Professional Service
 - [*Rev. Sci. Instrum.*](https://pubs.aip.org/aip/rsi),
 - [*Optics and Laser Technology*](https://www.sciencedirect.com/journal/optics-and-laser-technology),
 - [*Results Phys.*](https://www.sciencedirect.com/journal/results-in-physics),
-- [*IEEE Photonics Journal*](https://ieeephotonics.org/publications/photonics-journal/), 
+- [*IEEE Photonics Journal*](https://ieeephotonics.org/publications/photonics-journal/), etc.
 
 ### External Grant Reviewer:
 - Somewhere in Europe (****)
 
-### Conference Reviewer: 
-- Conference on Neural Information Processing Systems (NeurIPS),
-- International Conference on Optical Communication and Optical Information Processing (OCOIP).
-- International Academic Conference on Optics and Photonics (IACOP)
-
-### Conferences: 
+### Conference Service: 
 - Session Chair:
   -  Interim chair of morning sessions [THz part] for 2024 International Symposium on Ultrafast Phenomena and THz Waves (ISUPTW 2024).
 
 - Technical Program Committee Member:
   - 4th and 5th International Conference on Advanced Optics & Photonics Research in Engineering.
+
+### Conference Reviewer: 
+- Conference on Neural Information Processing Systems (NeurIPS),
+- International Conference on Optical Communication and Optical Information Processing (OCOIP),
+- International Academic Conference on Optics and Photonics (IACOP), etc.
