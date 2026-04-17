@@ -80,7 +80,7 @@ Professional Service
 - [*ACS Applied Materials & Interfaces*](https://pubs.acs.org/journal/aamick), 
 - [*TrAC Trends in Analytical Chemistry*](https://www.sciencedirect.com/journal/trac-trends-in-analytical-chemistry),
 - [*Communications Physics*](https://www.nature.com/commsphys/),
-- [*IEEE Trans. Terahertz Sci. Technol.*](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=5503871), 
+- [*IEEE Transactions on Terahertz Science and Technology*](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=5503871), 
 - [*Optics Letters*](https://opg.optica.org/ol/home.cfm), 
 - [*Optics Express*](https://opg.optica.org/oe/home.cfm), 
 - [*Review of Scientific Instruments*](https://pubs.aip.org/aip/rsi),
