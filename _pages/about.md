@@ -97,4 +97,4 @@ Professional Service
   -  Interim chair of morning sessions [THz part] for 2024 International Symposium on Ultrafast Phenomena and THz Waves (ISUPTW 2024).
 
 - Technical Program Committee Member:
-  - 4th International Conference on Advanced Optics & Photonics Research in Engineering.
+  - 4th and 5th International Conference on Advanced Optics & Photonics Research in Engineering.
