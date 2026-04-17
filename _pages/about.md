@@ -77,16 +77,16 @@ Professional Service
 - [*Nature Communications*](https://www.nature.com/ncomms/), 
 - [*ACS Photonics*](https://pubs.acs.org/journal/apchd5), 
 - [*Advanced Functional Materials*](https://advanced.onlinelibrary.wiley.com/journal/16163028),
-- [*ACS Appl. Mater. Interfaces.*](https://pubs.acs.org/journal/aamick), 
-- [*TrAC, Trends Anal. Chem.*](https://www.sciencedirect.com/journal/trac-trends-in-analytical-chemistry),
+- [*ACS Applied Materials & Interfaces*](https://pubs.acs.org/journal/aamick), 
+- [*TrAC Trends in Analytical Chemistry*](https://www.sciencedirect.com/journal/trac-trends-in-analytical-chemistry),
 - [*Communications Physics*](https://www.nature.com/commsphys/),
 - [*IEEE Trans. Terahertz Sci. Technol.*](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=5503871), 
 - [*Optics Letters*](https://opg.optica.org/ol/home.cfm), 
 - [*Optics Express*](https://opg.optica.org/oe/home.cfm), 
-- [*Rev. Sci. Instrum.*](https://pubs.aip.org/aip/rsi),
-- [*Spectrochim. Acta - A: Mol. Biomol. Spectrosc.*](https://www.sciencedirect.com/journal/spectrochimica-acta-part-a-molecular-and-biomolecular-spectroscopy), 
+- [*Review of Scientific Instruments*](https://pubs.aip.org/aip/rsi),
+- [*Spectrochimica Acta Part A: Molecular and Biomolecular Spectroscopy*](https://www.sciencedirect.com/journal/spectrochimica-acta-part-a-molecular-and-biomolecular-spectroscopy), 
 - [*Optics and Laser Technology*](https://www.sciencedirect.com/journal/optics-and-laser-technology),
-- [*Results Phys.*](https://www.sciencedirect.com/journal/results-in-physics),
+- [*Results in Physics*](https://www.sciencedirect.com/journal/results-in-physics),
 - [*IEEE Photonics Journal*](https://ieeephotonics.org/publications/photonics-journal/), etc.
 
 ### External Grant Reviewer:
