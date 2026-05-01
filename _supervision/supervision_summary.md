@@ -19,28 +19,28 @@ excerpt: "
 
 **The Cohort**
 
-- [100% Principal] Tequile Ryan: 2026 BEng(Hons)/B Maths Thesis student
+- [100% Principal Supervision] Tequile Ryan: 2026 BEng(Hons)/B Maths Thesis student
 
-- [100% Principal] Thomas Taylor: 2026 BEng(Honours) Thesis student
+- [100% Principal Supervision] Thomas Taylor: 2026 BEng(Honours) Thesis student
 
 - [100% UQ Supervision] Gundeep Somal: 2026 BEng(Hons)/MEng Thesis student - UQ-Cochlear Industrial Placements: Automatic Optical Inspection.
 
-- [40%] Seijun Stokes (co-supervised with Aleks : )): Seijun is an Electrical Engineering / Biomedical Engineering Student and he is eager and delicated to do cool stuff for his PhD in Switzerland or Germany (EU). He has applied for PhD programs in a few places and waiting for results. If you come across this website and has an interesting bio-related project with PhD scholarship, please consider him : )
+- [40% Associate Supervision] Seijun Stokes (co-supervised with Aleks : )): Seijun is an Electrical Engineering / Biomedical Engineering Student and he is eager and delicated to do cool stuff for his PhD in Switzerland or Germany (EU). He has applied for PhD programs in a few places and waiting for results. If you come across this website and has an interesting bio-related project with PhD scholarship, please consider him : )
 <br/><img src='/images/Seijun2025ThesisCongrats2.png'>
 <br/><img src='/images/Seijun2025illuminates.png'>
 
-- [100% Principal] Mengfei Liu: 2025 BEng(Honours) Thesis student: mid-infrared polaritonics.
+- [100% Principal Supervision] Mengfei Liu: 2025 BEng(Honours) Thesis student: mid-infrared polaritonics.
 
-- [100% Principal] Shaoyu Xu: 2025 BEng/MEng Thesis student: terahertz metasurfaces.
+- [100% Principal Supervision] Shaoyu Xu: 2025 BEng/MEng Thesis student: terahertz metasurfaces.
 
-- [100% Principal] Haitao Ning: 2025 BEng/MEng Thesis student: mid-infrared polaritonics.
+- [100% Principal Supervision] Haitao Ning: 2025 BEng/MEng Thesis student: mid-infrared polaritonics.
 
-- [100% Principal] Qiao Su: 2025 MEng (Computer Sci.) Thesis student: plasmonic cavity.
+- [100% Principal Supervision] Qiao Su: 2025 MEng (Computer Sci.) Thesis student: plasmonic cavity.
 
-- [100% Principal] Marjet Garcia: 2025 BEng(Honours) Thesis student: molecular dynamics for protein interactions.
+- [100% Principal Supervision] Marjet Garcia: 2025 BEng(Honours) Thesis student: molecular dynamics for protein interactions.
 
-- [100% Principal] Zhiyu Tang: 2025 MEng (Computer Sci.) Thesis student: molecular dynamics for protein interactions.
+- [100% Principal Supervision] Zhiyu Tang: 2025 MEng (Computer Sci.) Thesis student: molecular dynamics for protein interactions.
 
-- [100% Principal] Daniella Belonohy: Dani is my 2025 summer reserach project student and she is interested in bio-related application as an electrical engineer in real worlds. She has co-authored a peer-reviewed conference paper for IRMMW-THz 2025 (held in Finland). If you are looking for a delicated person to work on cool stuff with high commitments, please consider her.
+- [100% Principal Supervision] Daniella Belonohy: Dani is my 2025 summer reserach project student and she is interested in bio-related application as an electrical engineer in real worlds. She has co-authored a peer-reviewed conference paper for IRMMW-THz 2025 (held in Finland). If you are looking for a delicated person to work on cool stuff with high commitments, please consider her.
 
-- [40%] Michael Plackowski: Michael is my 2024 summer reserach project student (co-supervised by Aleks :)). He is now a Graduate RF design engineer at Syndetic PTY Ltd (Brisbane).
+- [40% Associate Supervision] Michael Plackowski: Michael is my 2024 summer reserach project student (co-supervised by Aleks :)). He is now a Graduate RF design engineer at Syndetic PTY Ltd (Brisbane).
