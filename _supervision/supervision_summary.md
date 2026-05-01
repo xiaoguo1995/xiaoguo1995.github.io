@@ -1,5 +1,5 @@
 ---
-title: "The Excellent Next Generation"
+title: "Click to see the details of the Excellent Next Generation"
 collection: supervision
 layout: talk
 permalink: /supervision/supervision_summary/
