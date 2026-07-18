@@ -50,7 +50,7 @@ Teaching Demo
 
 A 25–30-minute introductory FFT lecture designed for undergraduate engineering students, with an optional 5–10-minute matrix-based explanation.
 
-[**View the full teaching-demo page**](https://xiaoguo1995.github.io/teaching/FFT_Engineers_in_the_making/)
+[**View the full teaching-demo page**](https://xiaoguo1995.github.io/teaching/FFT_Engineers_in_the_making)
 
 [**Download the FFT lecture slides (.pptx)**](https://xiaoguo1995.github.io/files/UQ_ISB_Xiao_Guo_FFT_for_Engineers_in_the_Making_2026July14.pptx)
 
