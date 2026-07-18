@@ -56,7 +56,7 @@ A 25–30-minute introductory FFT lecture designed for undergraduate engineering
 Theses
 ------
 **Ph.D.** in Electrical Engineering, The University of Queensland, Brisbane, Queensland, Australia [07/2018 - 12/2022]
-- Supervisor: Prof. Aleksandar D. Rakić (亚历山大·挚爱的·拉基奇) [UQ Profile](https://about.uq.edu.au/experts/473) (Super supportive: 大好人，物理直觉和基本功扎实，谦虚，不瞎吹牛，很靠谱，做事很有逻辑，不虚伪)
+- Supervisor: Prof. Aleksandar D. Rakić (亚历山大·挚爱的·拉基奇) [UQ Profile](https://about.uq.edu.au/experts/473) (Super and genuinely supportive: 大好人，物理直觉和基本功扎实，谦虚，不瞎吹牛，很靠谱，做事很有逻辑，不虚伪)
 - Thesis: Light-matter interactions at the nanoscale: a case for terahertz near-field spectroscopy in semiconductor nanodevices
 
 **M.Sc.(Eng)** in Electrical and Electronic Engineering, The University of Hong Kong, Hong Kong SAR, China [09/2017 - 12/2018]
