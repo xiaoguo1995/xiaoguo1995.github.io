@@ -49,7 +49,7 @@ This can be used as a 25-to-30 min FFT lecture, with optional usage of matrix-fo
 
 You need to assume your students at least see the form of Fourier Integral before in 2nd year in Australia or 1st year in some other countries.
 
-**It includies**:
+**It includes**:
 - PowerPoint slides
 - Jupyter notebooks
 - MATLAB/Python examples
