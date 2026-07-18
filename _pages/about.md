@@ -35,7 +35,7 @@ Theses
 - Supervisor: Prof. Aleksandar D. Rakić [UQ Profile](https://about.uq.edu.au/experts/473)
 - Thesis: Light-matter interactions at the nanoscale: a case for terahertz near-field spectroscopy in semiconductor nanodevices
 
-**M.Sc.(Eng)** in Electrical and Electronic Engineering, The University of Hong Kong, Hong Kong SAR [09/2017 - 12/2018]
+**M.Sc.(Eng)** in Electrical and Electronic Engineering, The University of Hong Kong, Hong Kong SAR, China [09/2017 - 12/2018]
 - Supervisor: A/Prof. Yik-Chung WU [Google Scholar](https://scholar.google.com/citations?user=pEpkokUAAAAJ&hl=en)
 - Thesis: Deep learning in medical image segmentation - prostate cancer localisation
 
