@@ -4,9 +4,11 @@ collection: supervision
 layout: talk
 permalink: /supervision/supervision_summary/
 venue: "The University of Queensland, School of Electrical Engineering and Computer Science"
-date: 2026-04-11
+date: 2026-07-18
 location: "Brisbane, Australia"
 excerpt: "
+- **July 24th, 2026**: A great fun of 4-week experience for winter research projects! Congrats Kathleen, Haonan, Sho, Samuel, Joseph, Jacob have had some fun :) Baby Yoda Cocktail in the making. 
+
 - **Dec. 8th, 2025**: Congrats to Mengfei, Seijun, Shaoyu, Haitao, Qiao, Marjet, and Zhiyu on completing theses! Best wishes for your next stages of life!
 
 - **Nov. 26, 2025**: Kudo to Seijun's progress in his honour thesis for winning 2025 UQ EECS illuminates for Best Biomedical Device or Systems (sponsored by Cochlear)!
@@ -18,6 +20,17 @@ excerpt: "
 ---
 
 **The Cohort**
+- [100% Principal Supervision] Kathleen Kiki Huddleston: 2026 Winter Research Project
+
+- [100% Principal Supervision] Leo Haonan Liu: 2026 Winter Research Project
+
+- [100% Principal Supervision] Sho Suzuki: 2026 Winter Research Project
+
+- [100% Principal Supervision] Samuel Tong: 2026 Winter Research Project
+
+- [100% Principal Supervision] Joseph Lee: 2026 Winter Research Project
+
+- [100% Principal Supervision] Jacob O'Neill: 2026 Winter Research Project, 2026 BEng(Hons) Thesis student
 
 - [100% Principal Supervision] Tequile Ryan: 2026 BEng(Hons)/B Maths Thesis student
 
