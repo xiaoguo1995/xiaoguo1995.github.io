@@ -13,6 +13,8 @@ paperurl: 'https://xiaoguo1995.github.io/files/UQ ISB_Xiao Guo_FFT for Engineers
 The FFT lecture slide 
 (<iframe src="https://www.linkedin.com/embed/feed/update/urn:li:ugcPost:7484067093223473152?collapsed=1" height="567" width="504" frameborder="0" allowfullscreen="" title="Embedded post"></iframe>)
 
+[FFT Lecture stored in Linkedlin](https://www.linkedin.com/posts/xiaoguo-neuhkuuq_fast-fourier-transform-for-engineers-in-the-ugcPost-7484067093223473152-3X_T/?utm_source=share&utm_medium=member_desktop&rcm=ACoAABmkHn4Bsslcqliz8VhQaF5bsx3AuEntIO4)
+
 I'm a lecturer of ELEC3100: Fundamental of EM waves and fields (aka. time-varying fields) since 2024.
 
 This can be used as a 25-to-30 min FFT lecture, with optional usage of matrix-form of FFT with another 5-to-10 min.
