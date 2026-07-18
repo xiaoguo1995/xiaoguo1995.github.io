@@ -56,7 +56,7 @@ A 25–30-minute introductory FFT lecture designed for undergraduate engineering
 Theses
 ------
 **Ph.D.** in Electrical Engineering, The University of Queensland, Brisbane, Queensland, Australia [07/2018 - 12/2022]
-- Supervisor: Prof. Aleksandar D. Rakić (亚历山大·挚爱的·拉基奇) [UQ Profile](https://about.uq.edu.au/experts/473) (大好人，物理直觉和基本功扎实，谦虚，不会跟你瞎吹牛，很靠谱，做事很有逻辑，不虚伪)
+- Supervisor: Prof. Aleksandar D. Rakić (亚历山大·挚爱的·拉基奇) [UQ Profile](https://about.uq.edu.au/experts/473) (大好人，物理直觉和基本功扎实，谦虚，不瞎吹牛，很靠谱，做事很有逻辑，不虚伪)
 - Thesis: Light-matter interactions at the nanoscale: a case for terahertz near-field spectroscopy in semiconductor nanodevices
 
 **M.Sc.(Eng)** in Electrical and Electronic Engineering, The University of Hong Kong, Hong Kong SAR, China [09/2017 - 12/2018]
@@ -64,9 +64,9 @@ Theses
 - Thesis: Deep learning in medical image segmentation - prostate cancer localisation
 
 **B.Sc.** in Applied Physics, Northeastern University, Shenyang, Lianing Province, China [09/2013 - 06/2017]
-- Thesis Supervisor: Prof. An DU (杜安) (expertise in magnetic film and superconductivity，后来主要做磁性材料计算，毕竟超导实验都是80年代的事情了)
+- Thesis Supervisor: Prof. An DU (杜安) (expertise in magnetic film and superconductivity，早期是做超导，后期主要做磁性薄膜设计和计算)
 - Thesis: Spin wave dynamics in ribbon-shape magnetic materials
-- Undergraduate Research (year 2 to 3) Supervisor: Prof. Xinyu XUE (薛欣宇)[ResearchGate](https://www.researchgate.net/profile/Xinyu-Xue-2) (主要是做压电，现在转做器件搞应用和落地，毕竟已经过了发文章在学术圈存活的阶段了)
+- Undergraduate Research (year 2 to 3) Supervisor: Prof. Xinyu XUE (薛欣宇)[ResearchGate](https://www.researchgate.net/profile/Xinyu-Xue-2) (主要是做压电，现在转做器件搞应用和落地)
 
 
 Selected Publications
