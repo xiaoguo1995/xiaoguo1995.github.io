@@ -50,12 +50,12 @@ This can be used as a 25-to-30 min FFT lecture, with optional usage of matrix-fo
 You need to assume your students at least see the form of Fourier Integral before in 2nd year in Australia or 1st year in some other countries.
 
 **Why this FFT Lecture**:
-- Most students and professional engineers may just call FFT in real life 
-- All boring math behind it
-- I propose a way to explain to convince engineers in the making (students) to learn FFT in a light way
-- everyone know how boring FFT can be, below in Textbook section and Online materials, you are welcome to learn in the hard way if you want.
+- Most students and professional engineers may just call one line command of FFT in real life after the course.
+- Most people don't care all boring math behind it.
+- I propose, here is way to explain and convince engineers in the making (students) to learn FFT in a light way
+- Everyone know how boring FFT can be, below in Textbook section and Online materials, you are welcome to learn in the hard way if you want.
 - I always prefer to learn a new thing *in a light way* step by step and directly tell me why it is useful as my math is not good (compared a majority of genius in the rest of the world). 
-- As I really do not care math soley, there are plenty of 1980s math and physics I have learnt yet, but didn't impact my life.
+- As I really do not care math solely, there are plenty of 1980s math and physics I have learnt yet, but didn't impact my life.
 
 (Really, in reality, most engineering students will "fall asleep" and are not able to digest FFT complicated math in the typical way we taught them. 
 
