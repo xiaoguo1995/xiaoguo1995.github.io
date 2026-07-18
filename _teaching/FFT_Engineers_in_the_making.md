@@ -6,6 +6,7 @@ permalink: /teaching/FFT_Engineers_in_the_making
 venue: "The University of Queensland, School of Electrical Engineering and Computer Science"
 date: 2026-07-14
 location: "Brisbane, Australia"
+paperurl: 'https://xiaoguo1995.github.io/files/UQ ISB_Xiao Guo_FFT for Engineers in the making_2026July14.pptx'
 ---
 <style>body {text-align: justify}</style>
 
