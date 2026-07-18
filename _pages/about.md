@@ -32,17 +32,17 @@ I received my B.Sc. (Applied Physics) from Northeastern University (June, 2017) 
 Theses
 ------
 **Ph.D.** in Electrical Engineering, The University of Queensland, Brisbane, Australia [07/2018 - 12/2022]
-- Supervisor: Aleksandar D. Rakić [UQ Profile](https://about.uq.edu.au/experts/473)
+- Supervisor: Prof. Aleksandar D. Rakić [UQ Profile](https://about.uq.edu.au/experts/473)
 - Thesis: Light-matter interactions at the nanoscale: a case for terahertz near-field spectroscopy in semiconductor nanodevices
 
 **M.Sc.(Eng)** in Electrical and Electronic Engineering, The University of Hong Kong, Hong Kong SAR [09/2017 - 12/2018]
-- Supervisor: Yik-Chung WU [Google Scholar](https://scholar.google.com/citations?user=pEpkokUAAAAJ&hl=en)
+- Supervisor: A/Prof. Yik-Chung WU [Google Scholar](https://scholar.google.com/citations?user=pEpkokUAAAAJ&hl=en)
 - Thesis: Deep learning in medical image segmentation - prostate cancer localisation
 
 **B.Sc.** in Applied Physics, Northeastern University, Shenyang, China [09/2013 - 06/2017]
-- Thesis Supervisor: An DU
+- Thesis Supervisor: Prof. An DU (expertise in magnetic film and superconductivity)
 - Thesis: Spin wave dynamics in ribbon-shape magnetic materials
-- Undergraduate Research Supervisor: Xinyu XUE [ResearchGate](https://www.researchgate.net/profile/Xinyu-Xue-2)
+- Undergraduate Research (year 2 to year 3) Supervisor: Prof. Xinyu XUE [ResearchGate](https://www.researchgate.net/profile/Xinyu-Xue-2)
 
 Teaching Demo
 ------
