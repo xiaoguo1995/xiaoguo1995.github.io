@@ -39,7 +39,7 @@ Theses
 - Supervisor: A/Prof. Yik-Chung WU [Google Scholar](https://scholar.google.com/citations?user=pEpkokUAAAAJ&hl=en)
 - Thesis: Deep learning in medical image segmentation - prostate cancer localisation
 
-**B.Sc.** in Applied Physics, Northeastern University, Shenyang, China [09/2013 - 06/2017]
+**B.Sc.** in Applied Physics, Northeastern University, Shenyang, Lianing Province, China [09/2013 - 06/2017]
 - Thesis Supervisor: Prof. An DU (expertise in magnetic film and superconductivity)
 - Thesis: Spin wave dynamics in ribbon-shape magnetic materials
 - Undergraduate Research (year 2 to year 3) Supervisor: Prof. Xinyu XUE [ResearchGate](https://www.researchgate.net/profile/Xinyu-Xue-2)
