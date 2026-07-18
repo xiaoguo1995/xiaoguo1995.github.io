@@ -60,13 +60,13 @@ Theses
 - Thesis: Light-matter interactions at the nanoscale: a case for terahertz near-field spectroscopy in semiconductor nanodevices
 
 **M.Sc.(Eng)** in Electrical and Electronic Engineering, The University of Hong Kong, Hong Kong SAR, China [09/2017 - 12/2018]
-- Supervisor: A/Prof. Yik-Chung WU [Google Scholar](https://scholar.google.com/citations?user=pEpkokUAAAAJ&hl=en)
+- Supervisor: A/Prof. Yik-Chung WU (胡奕聪) [Google Scholar](https://scholar.google.com/citations?user=pEpkokUAAAAJ&hl=en)
 - Thesis: Deep learning in medical image segmentation - prostate cancer localisation
 
 **B.Sc.** in Applied Physics, Northeastern University, Shenyang, Lianing Province, China [09/2013 - 06/2017]
-- Thesis Supervisor: Prof. An DU (expertise in magnetic film and superconductivity)
+- Thesis Supervisor: Prof. An DU (杜安) (expertise in magnetic film and superconductivity)
 - Thesis: Spin wave dynamics in ribbon-shape magnetic materials
-- Undergraduate Research (year 2 to year 3) Supervisor: Prof. Xinyu XUE [ResearchGate](https://www.researchgate.net/profile/Xinyu-Xue-2)
+- Undergraduate Research (year 2 to year 3) Supervisor: Prof. Xinyu XUE (薛欣宇) [ResearchGate](https://www.researchgate.net/profile/Xinyu-Xue-2)
 
 
 Selected Publications
