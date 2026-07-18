@@ -6,14 +6,42 @@ permalink: /teaching/FFT_Engineers_in_the_making
 venue: "The University of Queensland, School of Electrical Engineering and Computer Science"
 date: 2026-07-14
 location: "Brisbane, Australia"
-paperurl: 'https://xiaoguo1995.github.io/files/UQ_ISB_Xiao Guo_FFT_for_Engineers_in_the_making_2026July14.pptx'
+slidesurl: 'https://xiaoguo1995.github.io/files/UQ_ISB_Xiao Guo_FFT_for_Engineers_in_the_making_2026July14.pptx'
 ---
-<style>body {text-align: justify}</style>
+<style>
+.page__content p {
+  text-align: justify;
+}
 
-The FFT lecture slide 
-(<iframe src="https://www.linkedin.com/embed/feed/update/urn:li:ugcPost:7484067093223473152?collapsed=1" height="567" width="504" frameborder="0" allowfullscreen="" title="Embedded post"></iframe>)
+.linkedin-embed {
+  width: 100%;
+  max-width: 504px;
+  margin: 1.5rem 0;
+}
 
-[FFT lecture slide can be downloaded in Linkedin](https://www.linkedin.com/posts/xiaoguo-neuhkuuq_fast-fourier-transform-for-engineers-in-the-ugcPost-7484067093223473152-3X_T/?utm_source=share&utm_medium=member_desktop&rcm=ACoAABmkHn4Bsslcqliz8VhQaF5bsx3AuEntIO4)
+.linkedin-embed iframe {
+  display: block;
+  width: 100%;
+  height: 567px;
+  border: 0;
+}
+</style>
+
+[**Download the FFT lecture slides (.pptx)**]({{ page.slidesurl | relative_url }})
+
+<div class="linkedin-embed">
+  <iframe
+    src="https://www.linkedin.com/embed/feed/update/urn:li:ugcPost:7484067093223473152?collapsed=1"
+    width="504"
+    height="567"
+    frameborder="0"
+    allowfullscreen
+    loading="lazy"
+    title="FFT for Engineers in the Making — LinkedIn post">
+  </iframe>
+</div>
+
+[View the FFT lecture post on LinkedIn](https://www.linkedin.com/posts/xiaoguo-neuhkuuq_fast-fourier-transform-for-engineers-in-the-ugcPost-7484067093223473152-3X_T/)
 
 I'm a lecturer of ELEC3100: Fundamental of EM waves and fields (aka. time-varying fields) since 2024.
 
