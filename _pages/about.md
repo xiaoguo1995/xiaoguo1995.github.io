@@ -64,9 +64,7 @@ Teaching Demo
   border: 0;
 }
 </style>
-
-[**Download the FFT lecture slides (.pptx)**]({{ page.slidesurl | relative_url }})
-
+<!-- [**Download the FFT lecture slides (.pptx)**]({{ page.slidesurl | relative_url }}) -->
 <div class="linkedin-embed">
   <iframe
     src="https://www.linkedin.com/embed/feed/update/urn:li:ugcPost:7484067093223473152?collapsed=1"
