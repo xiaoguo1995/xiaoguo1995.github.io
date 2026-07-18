@@ -46,25 +46,14 @@ Theses
 
 Teaching Demo
 ------
-<style>
-.page__content p {
-  text-align: justify;
-}
+### Fast Fourier Transform for Engineers in the Making
 
-.linkedin-embed {
-  width: 100%;
-  max-width: 504px;
-  margin: 1.5rem 0;
-}
+A 25–30-minute introductory FFT lecture designed for undergraduate engineering students, with an optional 5–10-minute matrix-based explanation.
 
-.linkedin-embed iframe {
-  display: block;
-  width: 100%;
-  height: 567px;
-  border: 0;
-}
-</style>
-<!-- [**Download the FFT lecture slides (.pptx)**]({{ page.slidesurl | relative_url }}) -->
+[**View the full teaching-demo page**](https://xiaoguo1995.github.io/teaching/FFT_Engineers_in_the_making/)
+
+[**Download the FFT lecture slides (.pptx)**](https://xiaoguo1995.github.io/files/UQ_ISB_Xiao_Guo_FFT_for_Engineers_in_the_Making_2026July14.pptx)
+
 <div class="linkedin-embed">
   <iframe
     src="https://www.linkedin.com/embed/feed/update/urn:li:ugcPost:7484067093223473152?collapsed=1"
@@ -76,7 +65,6 @@ Teaching Demo
     title="FFT for Engineers in the Making — LinkedIn post">
   </iframe>
 </div>
-
 
 Selected Publications
 ------
@@ -137,3 +125,18 @@ Professional Service
 - Conference on Neural Information Processing Systems (NeurIPS),
 - International Conference on Optical Communication and Optical Information Processing (OCOIP),
 - International Academic Conference on Optics and Photonics (IACOP), etc.
+
+<style>
+.linkedin-embed {
+  width: 100%;
+  max-width: 504px;
+  margin: 1.5rem 0;
+}
+
+.linkedin-embed iframe {
+  display: block;
+  width: 100%;
+  height: 567px;
+  border: 0;
+}
+</style>
