@@ -77,7 +77,7 @@ What is covered (the logic)
 Textbook / Other Univ's FFT lecture materials
 =====
 - [MIT: The phenomenal FFT lecture by Prof. Gilbert Strang](https://ocw.mit.edu/courses/18-06-linear-algebra-spring-2010/resources/lecture-26-complex-matrices-fast-fourier-transform/)
-- [Stanford University: FFT for 2nd year student](https://see.stanford.edu/Course/EE261/121)
+- [Stanford University: FFT for 2nd year student](https://see.stanford.edu/Course/EE261/142)
 - [Princeton University: FFT lecture](https://home.hvl.no/ansatte/gste/ftp/MarinLab_files/Litteratur/FFT_Princeton_Uni_lect11.pdf)
 - [Princeton University: FFT for 2nd year student](https://www.princeton.edu/~cuff/ele201/kulkarni_text/frequency.pdf)
 - [UC Berkely: FFT; it has a cool 2D example :)](https://people.eecs.berkeley.edu/~demmel/cs170_spr07/LectureNotes/Lecture_FFT.pdf)
