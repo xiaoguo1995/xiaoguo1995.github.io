@@ -29,7 +29,7 @@ Before that, I obtained my Master of Science in Engineering (MSE) in Electrical 
 
 I received my B.Sc. (Applied Physics) from Northeastern University (June, 2017) with a thesis topic in studying **spin wave dynamics** in magnetic materials via **Landau-Lifshitz-Gilbert equations**. During my 2nd to 3rd year, I stay in nanodevice lab out of my lecture times to work on **piezoelectric nanodevices based on ZnO nanoarrays** with applications in gas sensing and waste water treatment. -->
 
-<!-- Education
+Theses
 ------
 **Ph.D.** in Electrical Engineering, The University of Queensland, Brisbane, Australia [07/2018 - 12/2022]
 - Supervisor: Aleksandar D. Rakić [UQ Profile](https://about.uq.edu.au/experts/473)
@@ -42,7 +42,43 @@ I received my B.Sc. (Applied Physics) from Northeastern University (June, 2017) 
 **B.Sc.** in Applied Physics, Northeastern University, Shenyang, China [09/2013 - 06/2017]
 - Thesis Supervisor: An DU
 - Thesis: Spin wave dynamics in ribbon-shape magnetic materials
-- Undergraduate Research Supervisor: Xinyu XUE [ResearchGate](https://www.researchgate.net/profile/Xinyu-Xue-2) -->
+- Undergraduate Research Supervisor: Xinyu XUE [ResearchGate](https://www.researchgate.net/profile/Xinyu-Xue-2)
+
+Teaching Demo
+------
+<style>
+.page__content p {
+  text-align: justify;
+}
+
+.linkedin-embed {
+  width: 100%;
+  max-width: 504px;
+  margin: 1.5rem 0;
+}
+
+.linkedin-embed iframe {
+  display: block;
+  width: 100%;
+  height: 567px;
+  border: 0;
+}
+</style>
+
+[**Download the FFT lecture slides (.pptx)**]({{ page.slidesurl | relative_url }})
+
+<div class="linkedin-embed">
+  <iframe
+    src="https://www.linkedin.com/embed/feed/update/urn:li:ugcPost:7484067093223473152?collapsed=1"
+    width="504"
+    height="567"
+    frameborder="0"
+    allowfullscreen
+    loading="lazy"
+    title="FFT for Engineers in the Making — LinkedIn post">
+  </iframe>
+</div>
+
 
 Selected Publications
 ------
