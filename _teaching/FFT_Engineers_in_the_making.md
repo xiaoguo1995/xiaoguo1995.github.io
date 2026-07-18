@@ -49,6 +49,13 @@ This can be used as a 25-to-30 min FFT lecture, with optional usage of matrix-fo
 
 You need to assume your students at least see the form of Fourier Integral before in 2nd year in Australia or 1st year in some other countries.
 
+**It includies**:
+- PowerPoint slides
+- Jupyter notebooks
+- MATLAB/Python examples
+- Interactive demonstrations
+- Further reading
+
 **Why this FFT Lecture**:
 - Most students and professional engineers may just call one line command of FFT in real life after the course.
 - Most people don't care all boring math behind it.
@@ -61,7 +68,7 @@ You need to assume your students at least see the form of Fourier Integral befor
 
 Lecturers may also choose to skip assessing how FFT really work in final exam, as student evaluation survey plays the role.)
 
-What is covered (the logic)
+What is covered (the logic: sensor -> FFT -> decision)
 ======
 - (p.3 to p.7): *Why* we need Fourier Transform and its usage in real world which is FFT
 - (p.8 - p.9): *What* is Fast Fourier Transform
