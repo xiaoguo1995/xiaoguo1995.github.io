@@ -27,18 +27,18 @@ You need to assume your students at least see the form of Fourier Integral befor
 
 Lecturers may also choose to skip assessing how FFT really work in final exam, as student evaluation survey plays the role.)
 
-What is covered
+What is covered (the logic)
 ======
-- *Why we need* Fourier Transform and its usage in real world which is FFT (p.4 to p.7)
-- *What* is Fast Fourier Transform (in terms of Discrete Fourier Transform, p.8 - p.9)
-- *Why* FFT is called "Fast" Fourier Transform (p.10)
-- *When* "Fast Fourier Transform" can be slow? (p.11)
-- A trick called zero padding (p.11, p.12)
-- FFT can be wrong, how to use it properly as an engineer? (p.13)
-- 1D and 2D FFT applications (audio and image processing, p.14 to p.16)
-- FFTshift we encountered in 1D and 2D FFTapplications when we really code it up (p.17 - p.19)
-- *How* does the FFT algorithm work (with a 2-point and 4-point FFT example)? (p.22 - p.29)
-- [Optional] the *generic matrix-form* of FFT with 4-point FFT example (p.32 - p.36)
+- (p.3 to p.7): *Why* we need Fourier Transform and its usage in real world which is FFT
+- (p.8 - p.9): *What* is Fast Fourier Transform
+- (p.10): *Why* FFT is called "Fast" Fourier Transform
+- (p.11): *When* "Fast Fourier Transform" can be slow? 
+- (p.11, p.12): A trick called zero padding 
+- (p.13): FFT can be wrong, how to sample the signal properly as an engineer?
+- (p.14 to p.16): 1D and 2D FFT applications (audio and image processing)
+- (p.17 - p.19): FFTshift we encountered in 1D and 2D FFTapplications when we really code it up
+- (p.22 - p.29): *How* does the FFT algorithm work (with a 2-point and 4-point FFT example)? 
+- [Optional] (p.32 - p.36): the *generic matrix-form* of FFT with 4-point FFT example 
 
 Textbook / Other Univ's FFT lecture materials
 =====
