@@ -66,7 +66,7 @@ Theses
 **B.Sc.** in Applied Physics, Northeastern University, Shenyang, Lianing Province, China [09/2013 - 06/2017]
 - Thesis Supervisor: Prof. An DU (杜安) (expertise in magnetic film and superconductivity)
 - Thesis: Spin wave dynamics in ribbon-shape magnetic materials
-- Undergraduate Research (year 2 to year 3) Supervisor: Prof. Xinyu XUE (薛欣宇) [ResearchGate](https://www.researchgate.net/profile/Xinyu-Xue-2)
+- Undergraduate Research (year 2 to year 3) Supervisor: Prof. Xinyu XUE (薛欣宇)[ResearchGate](https://www.researchgate.net/profile/Xinyu-Xue-2)
 
 
 Selected Publications
