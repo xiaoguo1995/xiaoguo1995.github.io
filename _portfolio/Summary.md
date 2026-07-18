@@ -1,8 +1,10 @@
 ---
-title: "Diary of my career progression [post-2022.Dec]"
+title: "Diary of my career progression [Since 2022.Dec]"
 date: 2099-12-31 00:00:00
 # priority: 0
 excerpt: "
+- **14 July, 2026**: Unlock my life's first job market talk (teaching demo + research) for a continuing position of Lecturer (Assistant Professor) in Biomedical Engineering in UQ EECS. I have done my best to teach Fast Fourier Transform for Engineers in the making, designed in light of the backgorund of our engineering students. The audience cohort are a selected group of continuing academics pretending to be 2nd/4th year undergraduate students.
+
 - **Feb. 19th, 2026**: Bravo the arXiv version of QCL roadmap is online! A honour to have good vibes with Rainer, Mengkun, Adrian, and Sasha on the SNOM chapter [4.6 Advances in Near Field Optical Microscopy Based on Infrared Quantum Cascade Lasers] :) Hope SNOM will be more useful in more applications in the future. 
 
 - **Dec. 8th, 2025**: Congrats to Mengfei, Seijun, Shaoyu, Haitao, Qiao, Marjet, and Zhiyu on completing theses! Best wishes for your next stages of life!
