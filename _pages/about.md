@@ -30,8 +30,10 @@ Before that, I obtained my Master of Science in Engineering (MSE) in Electrical 
 I received my B.Sc. (Applied Physics) from Northeastern University (June, 2017) with a thesis topic in studying **spin wave dynamics** in magnetic materials via **Landau-Lifshitz-Gilbert equations**. During my 2nd to 3rd year, I stay in nanodevice lab out of my lecture times to work on **piezoelectric nanodevices based on ZnO nanoarrays** with applications in gas sensing and waste water treatment. -->
 
 
-Teaching Demo
+Open Educational Resources
 ------
+My teaching philosophy is application-driven engineering education. I believe students first need to understand why a concept matters before diving into the mathematics behind it. Real-world engineering examples, interactive demonstrations, and computational tools are integrated throughout my teaching to bridge theory and practice.
+
 ### Fast Fourier Transform for Engineers in the Making
 
 A 25–30-minute introductory FFT lecture designed for undergraduate engineering students, with an optional 5–10-minute matrix-based explanation.
