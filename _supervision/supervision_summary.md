@@ -36,6 +36,8 @@ excerpt: "
 
 - [100% Principal Supervision] Thomas Taylor: 2026 BEng(Honours) Thesis student
 
+- [100% Principal Supervision] Zeping Zhou: 2026 Master Computer Science Thesis student
+
 - [100% UQ Supervision] Gundeep Somal: 2026 BEng(Hons)/MEng Thesis student - UQ-Cochlear Industrial Placements: Automatic Optical Inspection.
 
 - [40% Associate Supervision] Seijun Stokes (co-supervised with Aleks : )): Seijun is an Electrical Engineering / Biomedical Engineering Student and he is eager and delicated to do cool stuff for his PhD in Switzerland or Germany (EU). He has applied for PhD programs in a few places and waiting for results. If you come across this website and has an interesting bio-related project with PhD scholarship, please consider him : )
