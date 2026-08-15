@@ -50,7 +50,7 @@ excerpt: "
 
 - [100% Principal Supervision] Joseph Lee: 2026 Winter Research Project
 
-- [100% Principal Supervision] 
+- [100% Principal Supervision] Jacob O'Neill: 2026 Winter Research Project, 2026 BEng(Hons) Thesis. Proactive and keen to solve real-world engineering problems, especially related to environment and renewable energy. If you are recruiting and look for a committed person for a well-paid position, please consider him.
 	<div class="badge-base LI-profile-badge"
 	 data-locale="en_US"
 	 data-size="medium"
@@ -65,7 +65,7 @@ excerpt: "
 	Jacob O'Neill
 	</a>
 	</div>
-Jacob O'Neill: 2026 Winter Research Project, 2026 BEng(Hons) Thesis. Proactive and keen to solve real-world engineering problems, especially related to environment and renewable energy. If you are recruiting and look for a committed person for a well-paid position, please consider him.
+
 
 - [100% Principal Supervision] 
 Tequile Ryan: 2026 BEng(Hons)/B Maths Thesis -> having summer-winter internship as electrical engineer at HeliMods (a Helicopter company Sunshine Coast, Australia) -> She is dedicated, highly engaged, and consistently attentive to technical details during project meetings. If your organisation is seeking an early-career engineer with these qualities, please consider her.
@@ -171,7 +171,7 @@ Tequile Ryan: 2026 BEng(Hons)/B Maths Thesis -> having summer-winter internship 
 	</a>
 	</div>
 
-- [40% Associate Supervision]
+- [40% Associate Supervision] Michael is my 2024 summer reserach project student (co-supervised by Aleks :)). He is now a Graduate RF design engineer at Syndetic PTY Ltd (Brisbane, Australia).
 	<div class="badge-base LI-profile-badge"
 	 data-locale="en_US"
 	 data-size="medium"
@@ -186,8 +186,7 @@ Tequile Ryan: 2026 BEng(Hons)/B Maths Thesis -> having summer-winter internship 
 	Michael Plackowski
 	</a>
 	</div>
-	Michael is my 2024 summer reserach project student (co-supervised by Aleks :)). He is now a Graduate RF design engineer at Syndetic PTY Ltd (Brisbane, Australia).
-
+	
 	<script src="https://platform.linkedin.com/badges/js/profile.js"
 	        async
 	        defer
