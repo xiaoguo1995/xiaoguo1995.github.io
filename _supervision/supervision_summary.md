@@ -42,7 +42,6 @@ excerpt: "
 	</a>
 	</div>
 
-
 - [100% Principal Supervision] Leo Haonan Liu: 2026 Winter Research Project. Problem-sovling mindset with a good communication skill - a man you always will endorse.
 
 - [100% Principal Supervision] Sho Suzuki: 2026 Winter Research Project, 2027 BEng(Hons)/MEng Thesis Placement
@@ -51,9 +50,22 @@ excerpt: "
 
 - [100% Principal Supervision] Joseph Lee: 2026 Winter Research Project
 
-- [100% Principal Supervision] Jacob O'Neill: 2026 Winter Research Project, 2026 BEng(Hons) Thesis. Proactive and keen to solve real-world engineering problems, especially related to environment and renewable energy. If you are recruiting and look for a committed person for a well-paid position, please consider him.
-
-<!-- - [100% Principal Supervision] Tequile Ryan: 2026 BEng(Hons)/B Maths Thesis -> job hunting, having summer-winter internship as electrical engineer at HeliMods (a Helicopter company Sunshine Coast, Australia) -> delicated and really engaging with focus on details in meeting, if you have an open position required such personnel merits, please consider Tequile. -->
+- [100% Principal Supervision] 
+	<div class="badge-base LI-profile-badge"
+	 data-locale="en_US"
+	 data-size="medium"
+	 data-theme="light"
+	 data-type="VERTICAL"
+	 data-vanity="jacob-o-neill-259598266"
+	 data-version="v1">
+	<a class="badge-base__link LI-simple-link"
+	 href="https://www.linkedin.com/in/jacob-o-neill-259598266/"
+	 target="_blank"
+	 rel="noopener noreferrer">
+	Jacob O'Neill
+	</a>
+	</div>
+Jacob O'Neill: 2026 Winter Research Project, 2026 BEng(Hons) Thesis. Proactive and keen to solve real-world engineering problems, especially related to environment and renewable energy. If you are recruiting and look for a committed person for a well-paid position, please consider him.
 
 - [100% Principal Supervision] 
 	<div class="badge-base LI-profile-badge"
