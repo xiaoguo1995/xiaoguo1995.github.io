@@ -4,7 +4,7 @@ collection: supervision
 layout: talk
 permalink: /supervision/supervision_summary/
 venue: "The University of Queensland, School of Electrical Engineering and Computer Science"
-date: 2026-07-18
+date: 2026-08-15
 location: "Brisbane, Australia"
 excerpt: "
 - **July 24th, 2026**: A great fun of 4-week experience for winter research projects! Congrats Kathleen, Haonan, Sho, Samuel, Joseph, Jacob have had some fun :) Baby Yoda Cocktail in the making. 
