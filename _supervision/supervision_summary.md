@@ -19,7 +19,7 @@ excerpt: "
 "
 ---
 
-**The Cohort (22 students)**
+**The Cohort (22 students, 2026 August)**
 - [100% Principal Supervision] Benjamin Craddock: 2026 BEng(Honours) Thesis. If you have a PCB-related engineer job, please consider Ben.
 <div class="badge-base LI-profile-badge"
 	 data-locale="en_US"
