@@ -20,6 +20,12 @@ excerpt: "
 ---
 
 **The Cohort**
+- [100% Principal Supervision] Benjamin Craddock: 2026 BEng(Honours) Thesis student
+
+- [100% Principal Supervision] Micah Lau: 2026 BEng(Honours) Thesis student
+
+- [100% Principal Supervision] Chang Yin: 2026 Master Computer Science Thesis student
+
 - [100% Principal Supervision] Kathleen Kiki Huddleston: 2026 Winter Research Project
 
 - [100% Principal Supervision] Leo Haonan Liu: 2026 Winter Research Project
