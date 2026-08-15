@@ -96,6 +96,20 @@ Jacob O'Neill: 2026 Winter Research Project, 2026 BEng(Hons) Thesis. Proactive a
 - [100% UQ Supervision] Gundeep Somal: 2026 BEng(Hons)/MEng Thesis - UQ-Cochlear Industrial Placements: Automatic Optical Inspection.
 
 - [40% Associate Supervision] Seijun Stokes (co-supervised with Aleks : )): Seijun is an Electrical Engineering / Biomedical Engineering Student and he is eager and delicated to do cool stuff for his PhD in Switzerland or Germany (EU). He has applied for PhD programs in a few places and waiting for results -> PhD in Deep UV-Raman Spectroscpy (Biophotonics) at Technische Universität Darmstadt (Germany), supervisor: Prof. Torsten Frosch.
+	<div class="badge-base LI-profile-badge"
+	 data-locale="en_US"
+	 data-size="medium"
+	 data-theme="light"
+	 data-type="VERTICAL"
+	 data-vanity="seijun-s-5b6792215"
+	 data-version="v1">
+	<a class="badge-base__link LI-simple-link"
+	 href="https://www.linkedin.com/in/seijun-s-5b6792215/"
+	 target="_blank"
+	 rel="noopener noreferrer">
+	Seijun Stokes
+	</a>
+	</div>
 <br/><img src='/images/Seijun2025ThesisCongrats2.png'>
 <br/><img src='/images/Seijun2025illuminates.png'>
 
