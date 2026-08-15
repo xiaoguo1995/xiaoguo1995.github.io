@@ -27,6 +27,25 @@ excerpt: "
 - [100% Principal Supervision] Chang Yin: 2026 Master Computer Science Thesis
 
 - [100% Principal Supervision] Kathleen Kiki Huddleston: 2026 Winter Research Project. Fully committed to the planned work, currently working in Power Engineering. If you are recruiting and look for a committed person for a well-paid position, please consider her.
+  <div class="badge-base LI-profile-badge"
+     data-locale="en_US"
+     data-size="medium"
+     data-theme="light"
+     data-type="VERTICAL"
+     data-vanity="tequile-ryan-954104212"
+     data-version="v1">
+  <a class="badge-base__link LI-simple-link"
+     href="https://www.linkedin.com/in/tequile-ryan-954104212/"
+     target="_blank"
+     rel="noopener noreferrer">
+    Kathleen Kiki Huddleston
+  </a>
+</div>
+
+<script src="https://platform.linkedin.com/badges/js/profile.js"
+        async
+        defer
+        type="text/javascript"></script>
 
 - [100% Principal Supervision] Leo Haonan Liu: 2026 Winter Research Project. Problem-sovling mindset with a good communication skill - a man you always will endorse.
 
@@ -40,13 +59,7 @@ excerpt: "
 
 <!-- - [100% Principal Supervision] Tequile Ryan: 2026 BEng(Hons)/B Maths Thesis -> job hunting, having summer-winter internship as electrical engineer at HeliMods (a Helicopter company Sunshine Coast, Australia) -> delicated and really engaging with focus on details in meeting, if you have an open position required such personnel merits, please consider Tequile. -->
 
-- [100% Principal Supervision] <a href="https://www.linkedin.com/in/tequile-ryan-954104212/"
-     target="_blank"
-     rel="noopener noreferrer">
-    Tequile Ryan
-  </a>:
-  2026 BEng(Hons)/B Maths Thesis -> job hunting, having summer-winter internship as electrical engineer at HeliMods (a Helicopter company Sunshine Coast, Australia) -> She is dedicated, highly engaged, and consistently attentive to technical details during project meetings. If your organisation is seeking an early-career engineer with these qualities, please consider her.
-
+- [100% Principal Supervision] 
   <div class="badge-base LI-profile-badge"
      data-locale="en_US"
      data-size="medium"
@@ -60,12 +73,13 @@ excerpt: "
      rel="noopener noreferrer">
     Tequile Ryan
   </a>
-</div>
+	</div>
 
-<script src="https://platform.linkedin.com/badges/js/profile.js"
-        async
-        defer
-        type="text/javascript"></script>
+	<script src="https://platform.linkedin.com/badges/js/profile.js"
+	        async
+	        defer
+	        type="text/javascript"></script>
+     2026 BEng(Hons)/B Maths Thesis -> job hunting, having summer-winter internship as electrical engineer at HeliMods (a Helicopter company Sunshine Coast, Australia) -> She is dedicated, highly engaged, and consistently attentive to technical details during project meetings. If your organisation is seeking an early-career engineer with these qualities, please consider her.
 
 - [100% Principal Supervision] Thomas Taylor: 2026 BEng(Honours) Thesis
 
