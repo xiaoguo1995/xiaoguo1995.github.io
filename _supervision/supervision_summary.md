@@ -111,6 +111,7 @@ Jacob O'Neill: 2026 Winter Research Project, 2026 BEng(Hons) Thesis. Proactive a
 
 - [100% Principal Supervision] Zhiyu Tang: 2025 MEng (Computer Sci.) Thesis: molecular dynamics for protein interactions -> Investment Promotion at Administrative Committee of Suzhou New District (Suzhou, China). 
 
+
 - [100% Principal Supervision] Daniella Belonohy: Dani is my 2025 summer reserach project student and she is interested in bio-related application as an electrical engineer in real worlds. She has co-authored a peer-reviewed conference paper for IRMMW-THz 2025 (held in Finland). If you are looking for a delicated person to work on cool stuff with high commitments, please consider her -> about to graduate in 2026 December (BSc in Biomedical Science and BEng in Electrical Engineering).
 	<div class="badge-base LI-profile-badge"
 	 data-locale="en_US"
@@ -123,7 +124,7 @@ Jacob O'Neill: 2026 Winter Research Project, 2026 BEng(Hons) Thesis. Proactive a
 	 href="https://www.linkedin.com/in/daniella-belonohy-0b4230291/"
 	 target="_blank"
 	 rel="noopener noreferrer">
-	Jacob O'Neill
+	Daniella Belonohy
 	</a>
 	</div>
 
