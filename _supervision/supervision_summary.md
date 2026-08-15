@@ -127,7 +127,7 @@ Jacob O'Neill: 2026 Winter Research Project, 2026 BEng(Hons) Thesis. Proactive a
 	 href="https://www.linkedin.com/in/shaoyu-xu/"
 	 target="_blank"
 	 rel="noopener noreferrer">
-	Marjet Garcia
+	Shaoyu Xu
 	</a>
 	</div>
 
