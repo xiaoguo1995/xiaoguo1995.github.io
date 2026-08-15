@@ -20,7 +20,7 @@ excerpt: "
 ---
 
 **The Cohort**
-- [22, 100% Principal Supervision] Benjamin Craddock: 2026 BEng(Honours) Thesis. If you have a PCB-related engineer job, please consider Ben.
+- (22)[100% Principal Supervision] Benjamin Craddock: 2026 BEng(Honours) Thesis. If you have a PCB-related engineer job, please consider Ben.
 	<div class="badge-base LI-profile-badge"
 	 data-locale="en_US"
 	 data-size="medium"
@@ -36,11 +36,11 @@ excerpt: "
 	</a>
 	</div>
 
-- [21, 100% Principal Supervision] Micah Lau: 2026 BEng(Honours) Thesis. Really interested in PCB, if you have a PCB-related engineer job, please consider Micah.
+- (21)[100% Principal Supervision] Micah Lau: 2026 BEng(Honours) Thesis. Really interested in PCB, if you have a PCB-related engineer job, please consider Micah.
 
-- [20, 100% Principal Supervision] Chang Yin: 2026 Master Computer Science Thesis
+- (20)[100% Principal Supervision] Chang Yin: 2026 Master Computer Science Thesis
 
-- 19.[100% Principal Supervision] Kathleen Kiki Huddleston: 2026 Winter Research Project. Fully committed to the planned work, currently working as Undegraduate Electrical & Control Engineer at Downer (Brisbane). If you are recruiting and look for a committed person for a well-paid position, please consider her.
+- (19)[100% Principal Supervision] Kathleen Kiki Huddleston: 2026 Winter Research Project. Fully committed to the planned work, currently working as Undegraduate Electrical & Control Engineer at Downer (Brisbane). If you are recruiting and look for a committed person for a well-paid position, please consider her.
 	<div class="badge-base LI-profile-badge"
 	 data-locale="en_US"
 	 data-size="medium"
@@ -56,7 +56,7 @@ excerpt: "
 	</a>
 	</div>
 
-- 18.[100% Principal Supervision] Haonan (Leo) Liu: 2026 Winter Research Project. Problem-sovling mindset with a good communication skill - a man you always will endorse.
+- (18)[100% Principal Supervision] Haonan (Leo) Liu: 2026 Winter Research Project. Problem-sovling mindset with a good communication skill - a man you always will endorse.
 	<div class="badge-base LI-profile-badge"
 	 data-locale="en_US"
 	 data-size="medium"
@@ -72,7 +72,7 @@ excerpt: "
 	</a>
 	</div>
 
-- 17.[100% Principal Supervision] Sho Suzuki: 2026 Winter Research Project, 2027 BEng(Hons)/MEng Thesis Placement; a delicated person with a lot of potential
+- (17)[100% Principal Supervision] Sho Suzuki: 2026 Winter Research Project, 2027 BEng(Hons)/MEng Thesis Placement; a delicated person with a lot of potential
 	<div class="badge-base LI-profile-badge"
 	 data-locale="en_US"
 	 data-size="medium"
@@ -88,7 +88,7 @@ excerpt: "
 	</a>
 	</div>
 
-- 16.[100% Principal Supervision] Samuel Tong: 2026 Winter Research Project; a delicated person with a lot of potential
+- (16)[100% Principal Supervision] Samuel Tong: 2026 Winter Research Project; a delicated person with a lot of potential
 	<div class="badge-base LI-profile-badge"
 	 data-locale="en_US"
 	 data-size="medium"
@@ -104,7 +104,7 @@ excerpt: "
 	</a>
 	</div>
 
-- 15.[100% Principal Supervision] Joseph Lee: 2026 Winter Research Project. Interested in designing stuff in an iterative way to make it work and fully committed. If you have a job like electronics or robotics requiring such personnel merits, please consider Jo.
+- (15)[100% Principal Supervision] Joseph Lee: 2026 Winter Research Project. Interested in designing stuff in an iterative way to make it work and fully committed. If you have a job like electronics or robotics requiring such personnel merits, please consider Jo.
 	<div class="badge-base LI-profile-badge"
 	 data-locale="en_US"
 	 data-size="medium"
@@ -120,7 +120,7 @@ excerpt: "
 	</a>
 	</div>
 
-- 14.[100% Principal Supervision] Jacob O'Neill: 2026 Winter Research Project, 2026 BEng(Hons) Thesis. Proactive and keen to solve real-world engineering problems, especially related to environment and renewable energy. If you are recruiting and look for a committed person for a well-paid position, please consider him.
+- (14)[100% Principal Supervision] Jacob O'Neill: 2026 Winter Research Project, 2026 BEng(Hons) Thesis. Proactive and keen to solve real-world engineering problems, especially related to environment and renewable energy. If you are recruiting and look for a committed person for a well-paid position, please consider him.
 	<div class="badge-base LI-profile-badge"
 	 data-locale="en_US"
 	 data-size="medium"
@@ -137,7 +137,7 @@ excerpt: "
 	</div>
 
 
-- 13.[100% Principal Supervision] 
+- (13)[100% Principal Supervision] 
 Tequile Ryan: 2026 BEng(Hons)/B Maths Thesis -> having summer-winter internship as electrical engineer at HeliMods (a Helicopter company Sunshine Coast, Australia) -> She is dedicated, highly engaged, and consistently attentive to technical details during project meetings. If your organisation is seeking an early-career engineer with these qualities, please consider her.
 	<div class="badge-base LI-profile-badge"
 	 data-locale="en_US"
@@ -160,13 +160,13 @@ Tequile Ryan: 2026 BEng(Hons)/B Maths Thesis -> having summer-winter internship 
 	        type="text/javascript"></script> -->
      
 
-- 12.[100% Principal Supervision] Thomas Taylor: 2026 BEng(Honours) Thesis
+- (12)[100% Principal Supervision] Thomas Taylor: 2026 BEng(Honours) Thesis
 
-- 11.[100% Principal Supervision] Zeping Zhou: 2026 Master Computer Science Thesis -> continue studying in UQ
+- (11)[100% Principal Supervision] Zeping Zhou: 2026 Master Computer Science Thesis -> continue studying in UQ
 
-- 10.[100% UQ Supervision] Gundeep Somal: 2026 BEng(Hons)/MEng Thesis - UQ-Cochlear Industrial Placements: Automatic Optical Inspection.
+- (10)[100% UQ Supervision] Gundeep Somal: 2026 BEng(Hons)/MEng Thesis - UQ-Cochlear Industrial Placements: Automatic Optical Inspection.
 
-- 9.[40% Associate Supervision] Seijun Stokes (co-supervised with Aleks : )), 2025 BEng(Honours) Thesis. Seijun is an Electrical Engineering / Biomedical Engineering Student and he is eager and delicated to do cool stuff for his PhD in Switzerland or Germany (EU). He has applied for PhD programs in a few places and waiting for results -> PhD in Deep UV-Raman Spectroscpy (Biophotonics) at Technische Universität Darmstadt (Germany) in mid-2026, PhD supervisor: Prof. Torsten Frosch.
+- (9)[40% Associate Supervision] Seijun Stokes (co-supervised with Aleks : )), 2025 BEng(Honours) Thesis. Seijun is an Electrical Engineering / Biomedical Engineering Student and he is eager and delicated to do cool stuff for his PhD in Switzerland or Germany (EU). He has applied for PhD programs in a few places and waiting for results -> PhD in Deep UV-Raman Spectroscpy (Biophotonics) at Technische Universität Darmstadt (Germany) in mid-2026, PhD supervisor: Prof. Torsten Frosch.
 	<div class="badge-base LI-profile-badge"
 	 data-locale="en_US"
 	 data-size="medium"
@@ -184,9 +184,9 @@ Tequile Ryan: 2026 BEng(Hons)/B Maths Thesis -> having summer-winter internship 
 <br/><img src='/images/Seijun2025ThesisCongrats2.png'>
 <br/><img src='/images/Seijun2025illuminates.png'>
 
-- 8.[100% Principal Supervision] Mengfei Liu: 2025 BEng(Honours) Thesis: mid-infrared polaritonics -> Travelling.
+- (8)[100% Principal Supervision] Mengfei Liu: 2025 BEng(Honours) Thesis: mid-infrared polaritonics -> Travelling.
 
-- 7.[100% Principal Supervision] Shaoyu Xu: 2025 BEng/MEng Thesis: terahertz metasurfaces -> Embedded System and Software Engineer for AI reasoning chip at Intellifusion Technologies Co., Ltd. (Shenzhen, China).
+- (7)[100% Principal Supervision] Shaoyu Xu: 2025 BEng/MEng Thesis: terahertz metasurfaces -> Embedded System and Software Engineer for AI reasoning chip at Intellifusion Technologies Co., Ltd. (Shenzhen, China).
 	<div class="badge-base LI-profile-badge"
 	 data-locale="en_US"
 	 data-size="medium"
@@ -202,11 +202,11 @@ Tequile Ryan: 2026 BEng(Hons)/B Maths Thesis -> having summer-winter internship 
 	</a>
 	</div>
 
-- 6.[100% Principal Supervision] Haitao Ning: 2025 BEng/MEng Thesis: mid-infrared polaritonics -> Another MSc(Management) in UQ and then Power Engineer back in Hometown :)
+- (6)[100% Principal Supervision] Haitao Ning: 2025 BEng/MEng Thesis: mid-infrared polaritonics -> Another MSc(Management) in UQ and then Power Engineer back in Hometown :)
 
-- 5.[100% Principal Supervision] Qiao Su: 2025 MEng (Computer Sci.) Thesis: plasmonic cavity -> Engineer/Admin Job (Meishan -> Xicang, China).
+- (5)[100% Principal Supervision] Qiao Su: 2025 MEng (Computer Sci.) Thesis: plasmonic cavity -> Engineer/Admin Job (Meishan -> Xicang, China).
 
-- 4.[100% Principal Supervision] Marjet Garcia: 2025 BEng(Honours) Thesis: molecular dynamics for protein interactions -> continue studying in UQ.
+- (4)[100% Principal Supervision] Marjet Garcia: 2025 BEng(Honours) Thesis: molecular dynamics for protein interactions -> continue studying in UQ.
 	<div class="badge-base LI-profile-badge"
 	 data-locale="en_US"
 	 data-size="medium"
@@ -222,7 +222,7 @@ Tequile Ryan: 2026 BEng(Hons)/B Maths Thesis -> having summer-winter internship 
 	</a>
 	</div>
 
-- 3.[100% Principal Supervision] Zhiyu Tang: 2025 MEng (Computer Sci.) Thesis: molecular dynamics for protein interactions -> Investment Promotion at Administrative Committee of Suzhou New District (Suzhou, China). 
+- (3)[100% Principal Supervision] Zhiyu Tang: 2025 MEng (Computer Sci.) Thesis: molecular dynamics for protein interactions -> Investment Promotion at Administrative Committee of Suzhou New District (Suzhou, China). 
 
 
 - (2)[100% Principal Supervision] Daniella Belonohy: Dani is my 2025 summer reserach project student and she is interested in bio-related application as an electrical engineer in real worlds. She has co-authored a peer-reviewed conference paper for IRMMW-THz 2025 (held in Finland). If you are looking for a delicated person to work on cool stuff with high commitments, please consider her -> about to graduate in 2026 December (BSc in Biomedical Science and BEng in Electrical Engineering).
