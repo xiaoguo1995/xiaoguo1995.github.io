@@ -116,6 +116,20 @@ Jacob O'Neill: 2026 Winter Research Project, 2026 BEng(Hons) Thesis. Proactive a
 - [100% Principal Supervision] Mengfei Liu: 2025 BEng(Honours) Thesis: mid-infrared polaritonics -> Travelling.
 
 - [100% Principal Supervision] Shaoyu Xu: 2025 BEng/MEng Thesis: terahertz metasurfaces -> Embedded System and Software Engineer for AI reasoning chip at Intellifusion Technologies Co., Ltd. (Shenzhen, China).
+	<div class="badge-base LI-profile-badge"
+	 data-locale="en_US"
+	 data-size="medium"
+	 data-theme="light"
+	 data-type="VERTICAL"
+	 data-vanity="shaoyu-xu"
+	 data-version="v1">
+	<a class="badge-base__link LI-simple-link"
+	 href="https://www.linkedin.com/in/shaoyu-xu/"
+	 target="_blank"
+	 rel="noopener noreferrer">
+	Marjet Garcia
+	</a>
+	</div>
 
 - [100% Principal Supervision] Haitao Ning: 2025 BEng/MEng Thesis: mid-infrared polaritonics -> Another MSc(Management) in UQ and then Power Engineer back in Hometown :)
 
