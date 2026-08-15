@@ -105,4 +105,24 @@ excerpt: "
 
 - [100% Principal Supervision] Daniella Belonohy: Dani is my 2025 summer reserach project student and she is interested in bio-related application as an electrical engineer in real worlds. She has co-authored a peer-reviewed conference paper for IRMMW-THz 2025 (held in Finland). If you are looking for a delicated person to work on cool stuff with high commitments, please consider her -> about to graduate in 2026 December (BSc in Biomedical Science and BEng in Electrical Engineering).
 
-- [40% Associate Supervision] Michael Plackowski: Michael is my 2024 summer reserach project student (co-supervised by Aleks :)). He is now a Graduate RF design engineer at Syndetic PTY Ltd (Brisbane, Australia).
+- [40% Associate Supervision]
+	<div class="badge-base LI-profile-badge"
+	 data-locale="en_US"
+	 data-size="medium"
+	 data-theme="light"
+	 data-type="VERTICAL"
+	 data-vanity="tequile-ryan-954104212"
+	 data-version="v1">
+	<a class="badge-base__link LI-simple-link"
+	 href="https://www.linkedin.com/in/michael-a-plackowski/"
+	 target="_blank"
+	 rel="noopener noreferrer">
+	Michael Plackowski
+	</a>
+	</div>
+
+	<script src="https://platform.linkedin.com/badges/js/profile.js"
+	        async
+	        defer
+	        type="text/javascript"></script>
+	Michael is my 2024 summer reserach project student (co-supervised by Aleks :)). He is now a Graduate RF design engineer at Syndetic PTY Ltd (Brisbane, Australia).
