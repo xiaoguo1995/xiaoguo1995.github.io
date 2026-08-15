@@ -75,10 +75,10 @@ excerpt: "
 	</a>
 	</div>
 
-	<script src="https://platform.linkedin.com/badges/js/profile.js"
+	<!-- <script src="https://platform.linkedin.com/badges/js/profile.js"
 	        async
 	        defer
-	        type="text/javascript"></script>
+	        type="text/javascript"></script> -->
      2026 BEng(Hons)/B Maths Thesis -> job hunting, having summer-winter internship as electrical engineer at HeliMods (a Helicopter company Sunshine Coast, Australia) -> She is dedicated, highly engaged, and consistently attentive to technical details during project meetings. If your organisation is seeking an early-career engineer with these qualities, please consider her.
 
 - [100% Principal Supervision] Thomas Taylor: 2026 BEng(Honours) Thesis
@@ -120,9 +120,9 @@ excerpt: "
 	Michael Plackowski
 	</a>
 	</div>
+	Michael is my 2024 summer reserach project student (co-supervised by Aleks :)). He is now a Graduate RF design engineer at Syndetic PTY Ltd (Brisbane, Australia).
 
 	<script src="https://platform.linkedin.com/badges/js/profile.js"
 	        async
 	        defer
 	        type="text/javascript"></script>
-	Michael is my 2024 summer reserach project student (co-supervised by Aleks :)). He is now a Graduate RF design engineer at Syndetic PTY Ltd (Brisbane, Australia).
