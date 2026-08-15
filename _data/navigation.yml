@@ -8,17 +8,21 @@ main:
   - title: "Publications"
     url: /publications/
 
+  - title: "Supervision"
+    url: /supervision/
+
+  - title: "Teaching"
+    url: /teaching/  
+
   - title: "News"
     url: /portfolio/
 
   - title: "Talks"
     url: /talks/    
 
-  - title: "Teaching"
-    url: /teaching/    
+  
     
-  - title: "Supervision"
-    url: /supervision/
+
         
   # - title: "Blog Posts"
   #   url: /year-archive/
