@@ -108,6 +108,20 @@ Jacob O'Neill: 2026 Winter Research Project, 2026 BEng(Hons) Thesis. Proactive a
 - [100% Principal Supervision] Qiao Su: 2025 MEng (Computer Sci.) Thesis: plasmonic cavity -> Engineer/Admin Job (Meishan -> Xicang, China).
 
 - [100% Principal Supervision] Marjet Garcia: 2025 BEng(Honours) Thesis: molecular dynamics for protein interactions -> continue studying in UQ.
+	<div class="badge-base LI-profile-badge"
+	 data-locale="en_US"
+	 data-size="medium"
+	 data-theme="light"
+	 data-type="VERTICAL"
+	 data-vanity="jet-garcia-a20577221"
+	 data-version="v1">
+	<a class="badge-base__link LI-simple-link"
+	 href="https://www.linkedin.com/in/jet-garcia-a20577221/"
+	 target="_blank"
+	 rel="noopener noreferrer">
+	Marjet Garcia
+	</a>
+	</div>
 
 - [100% Principal Supervision] Zhiyu Tang: 2025 MEng (Computer Sci.) Thesis: molecular dynamics for protein interactions -> Investment Promotion at Administrative Committee of Suzhou New District (Suzhou, China). 
 
