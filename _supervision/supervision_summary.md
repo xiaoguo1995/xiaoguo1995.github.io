@@ -111,7 +111,7 @@ excerpt: "
 	 data-size="medium"
 	 data-theme="light"
 	 data-type="VERTICAL"
-	 data-vanity="tequile-ryan-954104212"
+	 data-vanity="michael-a-plackowski"
 	 data-version="v1">
 	<a class="badge-base__link LI-simple-link"
 	 href="https://www.linkedin.com/in/michael-a-plackowski/"
