@@ -104,7 +104,21 @@ excerpt: "
 	</a>
 	</div>
 
-- [100% Principal Supervision] Joseph Lee: 2026 Winter Research Project
+- [100% Principal Supervision] Joseph Lee: 2026 Winter Research Project. Interested in designing stuff in an iterative way to make it work and fully committed. If you have a job like electronics or robotics requiring such personnel merits, please consider Jo.
+	<div class="badge-base LI-profile-badge"
+	 data-locale="en_US"
+	 data-size="medium"
+	 data-theme="light"
+	 data-type="VERTICAL"
+	 data-vanity="joseph-lee-bne"
+	 data-version="v1">
+	<a class="badge-base__link LI-simple-link"
+	 href="https://www.linkedin.com/in/joseph-lee-bne/"
+	 target="_blank"
+	 rel="noopener noreferrer">
+	Jacob O'Neill
+	</a>
+	</div>
 
 - [100% Principal Supervision] Jacob O'Neill: 2026 Winter Research Project, 2026 BEng(Hons) Thesis. Proactive and keen to solve real-world engineering problems, especially related to environment and renewable energy. If you are recruiting and look for a committed person for a well-paid position, please consider him.
 	<div class="badge-base LI-profile-badge"
