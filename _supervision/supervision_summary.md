@@ -26,9 +26,9 @@ excerpt: "
 
 - [100% Principal Supervision] Chang Yin: 2026 Master Computer Science Thesis
 
-- [100% Principal Supervision] Kathleen Kiki Huddleston: 2026 Winter Research Project
+- [100% Principal Supervision] Kathleen Kiki Huddleston: 2026 Winter Research Project. Fully committed to the planned work, currently working in Power Engineering. If you are recruiting and look for a committed person for a well-paid position, please consider her.
 
-- [100% Principal Supervision] Leo Haonan Liu: 2026 Winter Research Project
+- [100% Principal Supervision] Leo Haonan Liu: 2026 Winter Research Project. Problem-sovling mindset with a good communication skill - a man you always will endorse.
 
 - [100% Principal Supervision] Sho Suzuki: 2026 Winter Research Project, 2027 BEng(Hons)/MEng Thesis Placement
 
@@ -36,7 +36,7 @@ excerpt: "
 
 - [100% Principal Supervision] Joseph Lee: 2026 Winter Research Project
 
-- [100% Principal Supervision] Jacob O'Neill: 2026 Winter Research Project, 2026 BEng(Hons) Thesis
+- [100% Principal Supervision] Jacob O'Neill: 2026 Winter Research Project, 2026 BEng(Hons) Thesis. Proactive and keen to solve real-world engineering problems, especially related to environment and renewable energy. If you are recruiting and look for a committed person for a well-paid position, please consider him.
 
 <!-- - [100% Principal Supervision] Tequile Ryan: 2026 BEng(Hons)/B Maths Thesis -> job hunting, having summer-winter internship as electrical engineer at HeliMods (a Helicopter company Sunshine Coast, Australia) -> delicated and really engaging with focus on details in meeting, if you have an open position required such personnel merits, please consider Tequile. -->
 
