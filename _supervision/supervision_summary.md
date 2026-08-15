@@ -225,7 +225,7 @@ Tequile Ryan: 2026 BEng(Hons)/B Maths Thesis -> having summer-winter internship 
 - [100% Principal Supervision] Zhiyu Tang: 2025 MEng (Computer Sci.) Thesis: molecular dynamics for protein interactions -> Investment Promotion at Administrative Committee of Suzhou New District (Suzhou, China). 
 
 
-- [100% Principal Supervision] Daniella Belonohy: Dani is my 2025 summer reserach project student and she is interested in bio-related application as an electrical engineer in real worlds. She has co-authored a peer-reviewed conference paper for IRMMW-THz 2025 (held in Finland). If you are looking for a delicated person to work on cool stuff with high commitments, please consider her -> about to graduate in 2026 December (BSc in Biomedical Science and BEng in Electrical Engineering).
+- (2) [100% Principal Supervision] Daniella Belonohy: Dani is my 2025 summer reserach project student and she is interested in bio-related application as an electrical engineer in real worlds. She has co-authored a peer-reviewed conference paper for IRMMW-THz 2025 (held in Finland). If you are looking for a delicated person to work on cool stuff with high commitments, please consider her -> about to graduate in 2026 December (BSc in Biomedical Science and BEng in Electrical Engineering).
 	<div class="badge-base LI-profile-badge"
 	 data-locale="en_US"
 	 data-size="medium"
@@ -241,7 +241,7 @@ Tequile Ryan: 2026 BEng(Hons)/B Maths Thesis -> having summer-winter internship 
 	</a>
 	</div>
 
-- [40% Associate Supervision] Michael is my 2024 summer reserach project student (co-supervised by Aleks :)). He is now a Graduate RF design engineer at Syndetic PTY Ltd (Brisbane, Australia).
+- (1) [40% Associate Supervision] Michael is my 2024 summer reserach project student (co-supervised by Aleks :)). He is now a Graduate RF design engineer at Syndetic PTY Ltd (Brisbane, Australia).
 	<div class="badge-base LI-profile-badge"
 	 data-locale="en_US"
 	 data-size="medium"
