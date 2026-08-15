@@ -11,7 +11,7 @@ excerpt: "
 
 - **Dec. 8th, 2025**: Congrats to Mengfei, Seijun, Shaoyu, Haitao, Qiao, Marjet, and Zhiyu on completing theses! Best wishes for your next stages of life!
 
-- **Nov. 26, 2025**: Kudo to Seijun's progress in his honour thesis for winning 2025 UQ EECS illuminates for Best Biomedical Device or Systems (sponsored by Cochlear)!
+- **Nov. 26, 2025**: Kudo to Seijun's progress in his honour thesis for winning 2025 UQ EECS illuminates for Best Biomedical Device or Systems (sponsored by Cochlear Limited)!
 
 - **Oct. 2, 2025**:  Kudo to Seijun's winning as the 1st place for Institution of Engineering and Technology (IET) Queensalnd (QLD) / Engineers Australia Student Presentation Competition Final 2025! (the sole representative of UQ)
 
