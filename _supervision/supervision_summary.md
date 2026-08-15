@@ -241,7 +241,7 @@ Tequile Ryan: 2026 BEng(Hons)/B Maths Thesis -> having summer-winter internship 
 	</a>
 	</div>
 
-- (1)[40% Associate Supervision] Michael is my 2024 summer reserach project student (co-supervised by Aleks :)). He is now a Graduate RF design engineer at Syndetic PTY Ltd (Brisbane, Australia).
+- [40% Associate Supervision] Michael is my 2024 summer reserach project student (co-supervised by Aleks :)). He is now a Graduate RF design engineer at Syndetic PTY Ltd (Brisbane, Australia).
 	<div class="badge-base LI-profile-badge"
 	 data-locale="en_US"
 	 data-size="medium"
