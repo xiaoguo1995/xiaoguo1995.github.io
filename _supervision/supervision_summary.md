@@ -21,7 +21,7 @@ excerpt: "
 
 **The Cohort (22 students, 2026 August)**
 - [100% Principal Supervision] Benjamin Craddock: 2026 BEng(Honours) Thesis. If you have a PCB-related engineer job, please consider Ben.
-<div class="badge-base LI-profile-badge"
+	<div class="badge-base LI-profile-badge"
 	 data-locale="en_US"
 	 data-size="medium"
 	 data-theme="light"
@@ -34,7 +34,7 @@ excerpt: "
 	 rel="noopener noreferrer">
 	Benjamin Craddock
 	</a>
-</div>
+	</div>
 
 - [100% Principal Supervision] Micah Lau: 2026 BEng(Honours) Thesis. Really interested in PCB, if you have a PCB-related engineer job, please consider Micah.
 
@@ -226,7 +226,7 @@ Tequile Ryan: 2026 BEng(Hons)/B Maths Thesis -> having summer-winter internship 
 
 
 - [100% Principal Supervision] Daniella Belonohy: Dani is my 2025 summer reserach project student and she is interested in bio-related application as an electrical engineer in real worlds. She has co-authored a peer-reviewed conference paper for IRMMW-THz 2025 (held in Finland). If you are looking for a delicated person to work on cool stuff with high commitments, please consider her -> about to graduate in 2026 December (BSc in Biomedical Science and BEng in Electrical Engineering).
-<div class="badge-base LI-profile-badge"
+	<div class="badge-base LI-profile-badge"
 	 data-locale="en_US"
 	 data-size="medium"
 	 data-theme="light"
@@ -239,10 +239,10 @@ Tequile Ryan: 2026 BEng(Hons)/B Maths Thesis -> having summer-winter internship 
 	 rel="noopener noreferrer">
 	Daniella Belonohy
 	</a>
-</div>
+	</div>
 
 - [40% Associate Supervision] Michael is my 2024 summer reserach project student (co-supervised by Aleks :)). He is now a Graduate RF design engineer at Syndetic PTY Ltd (Brisbane, Australia).
-<div class="badge-base LI-profile-badge"
+	<div class="badge-base LI-profile-badge"
 	 data-locale="en_US"
 	 data-size="medium"
 	 data-theme="light"
@@ -255,8 +255,8 @@ Tequile Ryan: 2026 BEng(Hons)/B Maths Thesis -> having summer-winter internship 
 	 rel="noopener noreferrer">
 	Michael Plackowski
 	</a>
-</div>
-<script src="https://platform.linkedin.com/badges/js/profile.js"
-        async
-        defer
-        type="text/javascript"></script>
+	</div>
+	<script src="https://platform.linkedin.com/badges/js/profile.js"
+	        async
+	        defer
+	        type="text/javascript"></script>
