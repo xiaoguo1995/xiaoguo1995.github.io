@@ -38,7 +38,14 @@ excerpt: "
 
 - [100% Principal Supervision] Jacob O'Neill: 2026 Winter Research Project, 2026 BEng(Hons) Thesis
 
-- [100% Principal Supervision] Tequile Ryan: 2026 BEng(Hons)/B Maths Thesis -> job hunting, having summer-winter internship as electrical engineer at HeliMods (a Helicopter company Sunshine Coast, Australia) -> delicated and really engaging with focus on details in meeting, if you have a open position requried for this kind of personnel merits, please consider Tequile.
+<!-- - [100% Principal Supervision] Tequile Ryan: 2026 BEng(Hons)/B Maths Thesis -> job hunting, having summer-winter internship as electrical engineer at HeliMods (a Helicopter company Sunshine Coast, Australia) -> delicated and really engaging with focus on details in meeting, if you have an open position required such personnel merits, please consider Tequile. -->
+
+- [100% Principal Supervision] <a href="https://www.linkedin.com/in/tequile-ryan-954104212/"
+     target="_blank"
+     rel="noopener noreferrer">
+    Tequile Ryan
+  </a>:
+  2026 BEng(Hons)/B Maths Thesis -> job hunting, having summer-winter internship as electrical engineer at HeliMods (a Helicopter company Sunshine Coast, Australia) -> delicated and really engaging with focus on details in meeting, if you have an open position required such personnel merits, please consider her.
 
 - [100% Principal Supervision] Thomas Taylor: 2026 BEng(Honours) Thesis
 
