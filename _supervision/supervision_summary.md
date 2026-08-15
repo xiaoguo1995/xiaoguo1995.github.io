@@ -32,7 +32,7 @@ excerpt: "
 	 href="https://www.linkedin.com/in/benjamin-craddock-0265a9269/"
 	 target="_blank"
 	 rel="noopener noreferrer">
-	Kathleen Kiki Huddleston
+	Benjamin Craddock
 	</a>
 	</div>
 
