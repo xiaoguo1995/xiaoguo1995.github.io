@@ -20,47 +20,47 @@ excerpt: "
 ---
 
 **The Cohort**
-- [100% Principal Supervision] Benjamin Craddock: 2026 BEng(Honours) Thesis student
+- [100% Principal Supervision] Benjamin Craddock: 2026 BEng(Honours) Thesis
 
-- [100% Principal Supervision] Micah Lau: 2026 BEng(Honours) Thesis student
+- [100% Principal Supervision] Micah Lau: 2026 BEng(Honours) Thesis
 
-- [100% Principal Supervision] Chang Yin: 2026 Master Computer Science Thesis student
+- [100% Principal Supervision] Chang Yin: 2026 Master Computer Science Thesis
 
 - [100% Principal Supervision] Kathleen Kiki Huddleston: 2026 Winter Research Project
 
 - [100% Principal Supervision] Leo Haonan Liu: 2026 Winter Research Project
 
-- [100% Principal Supervision] Sho Suzuki: 2026 Winter Research Project
+- [100% Principal Supervision] Sho Suzuki: 2026 Winter Research Project, 2027 BEng(Hons)/MEng Thesis Placement
 
 - [100% Principal Supervision] Samuel Tong: 2026 Winter Research Project
 
 - [100% Principal Supervision] Joseph Lee: 2026 Winter Research Project
 
-- [100% Principal Supervision] Jacob O'Neill: 2026 Winter Research Project, 2026 BEng(Hons) Thesis student
+- [100% Principal Supervision] Jacob O'Neill: 2026 Winter Research Project, 2026 BEng(Hons) Thesis
 
-- [100% Principal Supervision] Tequile Ryan: 2026 BEng(Hons)/B Maths Thesis student
+- [100% Principal Supervision] Tequile Ryan: 2026 BEng(Hons)/B Maths Thesis
 
-- [100% Principal Supervision] Thomas Taylor: 2026 BEng(Honours) Thesis student
+- [100% Principal Supervision] Thomas Taylor: 2026 BEng(Honours) Thesis
 
-- [100% Principal Supervision] Zeping Zhou: 2026 Master Computer Science Thesis student
+- [100% Principal Supervision] Zeping Zhou: 2026 Master Computer Science Thesis
 
-- [100% UQ Supervision] Gundeep Somal: 2026 BEng(Hons)/MEng Thesis student - UQ-Cochlear Industrial Placements: Automatic Optical Inspection.
+- [100% UQ Supervision] Gundeep Somal: 2026 BEng(Hons)/MEng Thesis - UQ-Cochlear Industrial Placements: Automatic Optical Inspection.
 
 - [40% Associate Supervision] Seijun Stokes (co-supervised with Aleks : )): Seijun is an Electrical Engineering / Biomedical Engineering Student and he is eager and delicated to do cool stuff for his PhD in Switzerland or Germany (EU). He has applied for PhD programs in a few places and waiting for results. If you come across this website and has an interesting bio-related project with PhD scholarship, please consider him : )
 <br/><img src='/images/Seijun2025ThesisCongrats2.png'>
 <br/><img src='/images/Seijun2025illuminates.png'>
 
-- [100% Principal Supervision] Mengfei Liu: 2025 BEng(Honours) Thesis student: mid-infrared polaritonics.
+- [100% Principal Supervision] Mengfei Liu: 2025 BEng(Honours) Thesis: mid-infrared polaritonics.
 
-- [100% Principal Supervision] Shaoyu Xu: 2025 BEng/MEng Thesis student: terahertz metasurfaces.
+- [100% Principal Supervision] Shaoyu Xu: 2025 BEng/MEng Thesis: terahertz metasurfaces.
 
-- [100% Principal Supervision] Haitao Ning: 2025 BEng/MEng Thesis student: mid-infrared polaritonics.
+- [100% Principal Supervision] Haitao Ning: 2025 BEng/MEng Thesis: mid-infrared polaritonics.
 
-- [100% Principal Supervision] Qiao Su: 2025 MEng (Computer Sci.) Thesis student: plasmonic cavity.
+- [100% Principal Supervision] Qiao Su: 2025 MEng (Computer Sci.) Thesis: plasmonic cavity.
 
-- [100% Principal Supervision] Marjet Garcia: 2025 BEng(Honours) Thesis student: molecular dynamics for protein interactions.
+- [100% Principal Supervision] Marjet Garcia: 2025 BEng(Honours) Thesis: molecular dynamics for protein interactions.
 
-- [100% Principal Supervision] Zhiyu Tang: 2025 MEng (Computer Sci.) Thesis student: molecular dynamics for protein interactions.
+- [100% Principal Supervision] Zhiyu Tang: 2025 MEng (Computer Sci.) Thesis: molecular dynamics for protein interactions.
 
 - [100% Principal Supervision] Daniella Belonohy: Dani is my 2025 summer reserach project student and she is interested in bio-related application as an electrical engineer in real worlds. She has co-authored a peer-reviewed conference paper for IRMMW-THz 2025 (held in Finland). If you are looking for a delicated person to work on cool stuff with high commitments, please consider her.
 
