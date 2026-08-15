@@ -68,6 +68,7 @@ excerpt: "
 Jacob O'Neill: 2026 Winter Research Project, 2026 BEng(Hons) Thesis. Proactive and keen to solve real-world engineering problems, especially related to environment and renewable energy. If you are recruiting and look for a committed person for a well-paid position, please consider him.
 
 - [100% Principal Supervision] 
+Tequile Ryan: 2026 BEng(Hons)/B Maths Thesis -> having summer-winter internship as electrical engineer at HeliMods (a Helicopter company Sunshine Coast, Australia) -> She is dedicated, highly engaged, and consistently attentive to technical details during project meetings. If your organisation is seeking an early-career engineer with these qualities, please consider her.
 	<div class="badge-base LI-profile-badge"
 	 data-locale="en_US"
 	 data-size="medium"
@@ -87,7 +88,7 @@ Jacob O'Neill: 2026 Winter Research Project, 2026 BEng(Hons) Thesis. Proactive a
 	        async
 	        defer
 	        type="text/javascript"></script> -->
-     2026 BEng(Hons)/B Maths Thesis -> job hunting, having summer-winter internship as electrical engineer at HeliMods (a Helicopter company Sunshine Coast, Australia) -> She is dedicated, highly engaged, and consistently attentive to technical details during project meetings. If your organisation is seeking an early-career engineer with these qualities, please consider her.
+     
 
 - [100% Principal Supervision] Thomas Taylor: 2026 BEng(Honours) Thesis
 
