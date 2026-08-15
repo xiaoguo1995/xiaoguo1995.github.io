@@ -20,7 +20,7 @@ excerpt: "
 ---
 
 **The Cohort**
-- [21, 100% Principal Supervision] Benjamin Craddock: 2026 BEng(Honours) Thesis. If you have a PCB-related engineer job, please consider Ben.
+- 22.[100% Principal Supervision] Benjamin Craddock: 2026 BEng(Honours) Thesis. If you have a PCB-related engineer job, please consider Ben.
 	<div class="badge-base LI-profile-badge"
 	 data-locale="en_US"
 	 data-size="medium"
@@ -36,9 +36,9 @@ excerpt: "
 	</a>
 	</div>
 
-- [20, 100% Principal Supervision] Micah Lau: 2026 BEng(Honours) Thesis. Really interested in PCB, if you have a PCB-related engineer job, please consider Micah.
+- 21.[100% Principal Supervision] Micah Lau: 2026 BEng(Honours) Thesis. Really interested in PCB, if you have a PCB-related engineer job, please consider Micah.
 
-- [100% Principal Supervision] Chang Yin: 2026 Master Computer Science Thesis
+- 20.[100% Principal Supervision] Chang Yin: 2026 Master Computer Science Thesis
 
 - 19.[100% Principal Supervision] Kathleen Kiki Huddleston: 2026 Winter Research Project. Fully committed to the planned work, currently working as Undegraduate Electrical & Control Engineer at Downer (Brisbane). If you are recruiting and look for a committed person for a well-paid position, please consider her.
 	<div class="badge-base LI-profile-badge"
