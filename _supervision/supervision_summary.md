@@ -60,19 +60,19 @@ excerpt: "
 <!-- - [100% Principal Supervision] Tequile Ryan: 2026 BEng(Hons)/B Maths Thesis -> job hunting, having summer-winter internship as electrical engineer at HeliMods (a Helicopter company Sunshine Coast, Australia) -> delicated and really engaging with focus on details in meeting, if you have an open position required such personnel merits, please consider Tequile. -->
 
 - [100% Principal Supervision] 
-  <div class="badge-base LI-profile-badge"
-     data-locale="en_US"
-     data-size="medium"
-     data-theme="light"
-     data-type="VERTICAL"
-     data-vanity="tequile-ryan-954104212"
-     data-version="v1">
-  <a class="badge-base__link LI-simple-link"
-     href="https://www.linkedin.com/in/tequile-ryan-954104212/"
-     target="_blank"
-     rel="noopener noreferrer">
-    Tequile Ryan
-  </a>
+	<div class="badge-base LI-profile-badge"
+	 data-locale="en_US"
+	 data-size="medium"
+	 data-theme="light"
+	 data-type="VERTICAL"
+	 data-vanity="tequile-ryan-954104212"
+	 data-version="v1">
+	<a class="badge-base__link LI-simple-link"
+	 href="https://www.linkedin.com/in/tequile-ryan-954104212/"
+	 target="_blank"
+	 rel="noopener noreferrer">
+	Tequile Ryan
+	</a>
 	</div>
 
 	<script src="https://platform.linkedin.com/badges/js/profile.js"
