@@ -116,7 +116,7 @@ excerpt: "
 	 href="https://www.linkedin.com/in/joseph-lee-bne/"
 	 target="_blank"
 	 rel="noopener noreferrer">
-	Jacob O'Neill
+	Joseph Lee
 	</a>
 	</div>
 
