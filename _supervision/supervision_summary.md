@@ -20,9 +20,23 @@ excerpt: "
 ---
 
 **The Cohort**
-- [100% Principal Supervision] Benjamin Craddock: 2026 BEng(Honours) Thesis
+- [100% Principal Supervision] Benjamin Craddock: 2026 BEng(Honours) Thesis. If you have a PCB-related engineer job, please consider Ben.
+	<div class="badge-base LI-profile-badge"
+	 data-locale="en_US"
+	 data-size="medium"
+	 data-theme="light"
+	 data-type="VERTICAL"
+	 data-vanity="benjamin-craddock-0265a9269"
+	 data-version="v1">
+	<a class="badge-base__link LI-simple-link"
+	 href="https://www.linkedin.com/in/benjamin-craddock-0265a9269/"
+	 target="_blank"
+	 rel="noopener noreferrer">
+	Kathleen Kiki Huddleston
+	</a>
+	</div>
 
-- [100% Principal Supervision] Micah Lau: 2026 BEng(Honours) Thesis
+- [100% Principal Supervision] Micah Lau: 2026 BEng(Honours) Thesis. Really interested in PCB, if you have a PCB-related engineer job, please consider Micah.
 
 - [100% Principal Supervision] Chang Yin: 2026 Master Computer Science Thesis
 
@@ -42,11 +56,53 @@ excerpt: "
 	</a>
 	</div>
 
-- [100% Principal Supervision] Leo Haonan Liu: 2026 Winter Research Project. Problem-sovling mindset with a good communication skill - a man you always will endorse.
+- [100% Principal Supervision] Haonan (Leo) Liu: 2026 Winter Research Project. Problem-sovling mindset with a good communication skill - a man you always will endorse.
+	<div class="badge-base LI-profile-badge"
+	 data-locale="en_US"
+	 data-size="medium"
+	 data-theme="light"
+	 data-type="VERTICAL"
+	 data-vanity="haonan-liu-265510275"
+	 data-version="v1">
+	<a class="badge-base__link LI-simple-link"
+	 href="https://www.linkedin.com/in/haonan-liu-265510275/"
+	 target="_blank"
+	 rel="noopener noreferrer">
+	Haonan (Leo) Liu
+	</a>
+	</div>
 
-- [100% Principal Supervision] Sho Suzuki: 2026 Winter Research Project, 2027 BEng(Hons)/MEng Thesis Placement
+- [100% Principal Supervision] Sho Suzuki: 2026 Winter Research Project, 2027 BEng(Hons)/MEng Thesis Placement; a delicated person with a lot of potential
+	<div class="badge-base LI-profile-badge"
+	 data-locale="en_US"
+	 data-size="medium"
+	 data-theme="light"
+	 data-type="VERTICAL"
+	 data-vanity="suzukisho"
+	 data-version="v1">
+	<a class="badge-base__link LI-simple-link"
+	 href="https://www.linkedin.com/in/suzukisho/"
+	 target="_blank"
+	 rel="noopener noreferrer">
+	Sho Suzuki
+	</a>
+	</div>
 
-- [100% Principal Supervision] Samuel Tong: 2026 Winter Research Project
+- [100% Principal Supervision] Samuel Tong: 2026 Winter Research Project; a delicated person with a lot of potential
+	<div class="badge-base LI-profile-badge"
+	 data-locale="en_US"
+	 data-size="medium"
+	 data-theme="light"
+	 data-type="VERTICAL"
+	 data-vanity="samuel-t-37e"
+	 data-version="v1">
+	<a class="badge-base__link LI-simple-link"
+	 href="https://www.linkedin.com/in/samuel-t-37e/"
+	 target="_blank"
+	 rel="noopener noreferrer">
+	Samuel Tong
+	</a>
+	</div>
 
 - [100% Principal Supervision] Joseph Lee: 2026 Winter Research Project
 
