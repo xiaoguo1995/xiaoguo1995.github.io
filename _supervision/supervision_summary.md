@@ -166,7 +166,7 @@ Tequile Ryan: 2026 BEng(Hons)/B Maths Thesis -> having summer-winter internship 
 
 - [100% UQ Supervision] Gundeep Somal: 2026 BEng(Hons)/MEng Thesis - UQ-Cochlear Industrial Placements: Automatic Optical Inspection.
 
-- [40% Associate Supervision] Seijun Stokes (co-supervised with Aleks : )): Seijun is an Electrical Engineering / Biomedical Engineering Student and he is eager and delicated to do cool stuff for his PhD in Switzerland or Germany (EU). He has applied for PhD programs in a few places and waiting for results -> PhD in Deep UV-Raman Spectroscpy (Biophotonics) at Technische Universität Darmstadt (Germany) in mid-2026, PhD supervisor: Prof. Torsten Frosch.
+- [40% Associate Supervision] Seijun Stokes (co-supervised with Aleks : )), 2025 BEng(Honours) Thesis. Seijun is an Electrical Engineering / Biomedical Engineering Student and he is eager and delicated to do cool stuff for his PhD in Switzerland or Germany (EU). He has applied for PhD programs in a few places and waiting for results -> PhD in Deep UV-Raman Spectroscpy (Biophotonics) at Technische Universität Darmstadt (Germany) in mid-2026, PhD supervisor: Prof. Torsten Frosch.
 	<div class="badge-base LI-profile-badge"
 	 data-locale="en_US"
 	 data-size="medium"
