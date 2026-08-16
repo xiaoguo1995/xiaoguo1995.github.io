@@ -21,7 +21,7 @@ I am a Postdoctoral Research Fellow in Aleks Rakic group (Photonics Engineering 
 
 Thanks to my supervisor Prof. [Aleksandar D. Rakić](https://about.uq.edu.au/experts/473), since 2024, I have the chance to co-teach a third-year course: ELEC3100 Fundamentals of Electromagnetic Waves and Fields, to develop teaching skills gradually.
 
-Previously, I earned an Master of Engineering in Science (EEE) from The University of Hong Kong, studying deep learning for image segmentation, and a BSc(Applied Physics) from Northeastern University, where I researched spin wave dynamics and piezoelectric nanodevices.
+Previously, I earned an Master of Engineering in Science (Electronic and Electrical Engineering) from The University of Hong Kong, studying deep learning for image segmentation, and a BSc(Applied Physics) from Northeastern University, where I researched spin wave dynamics and piezoelectric nanodevices.
 
 <!-- I am holding a position of Postdoctoral Research Fellow at School of Electrical Engineering and Computer Science, The University of Queensland (Brisbane, Australia). My research interests include scanning near-field optical microscopy (SNOM), terahertz (THz), and nanophotonics.
 
