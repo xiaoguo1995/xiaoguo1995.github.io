@@ -17,7 +17,7 @@ body { text-align: justify; }
 <!-- <style>body {text-align: justify}</style> -->
 <!-- <br/><img src='/images/About Me.png'> -->
 
-I am a Postdoctoral Research Fellow in Aleks Rakic group (Photonics Engineering Group) at The University of Queensland (UQ), specialising in imaging and sensing using invisble terahertz and mid-infrared waves (5 to 300 µm) for probing intrisic properties biological and cultural heritage systems non-destructively. My PhD is in nanoscale light-matter interactions for seminconductor devices in UQ.
+I am a Postdoctoral Research Fellow in Aleks Rakic group (Photonics Engineering Group) at The University of Queensland (UQ), specialising in imaging and sensing using invisble terahertz and mid-infrared waves (5 to 300 µm) for probing intrisic properties of biological and cultural heritage systems non-destructively. My PhD is in nanoscale light-matter interactions for seminconductor devices in UQ.
 
 Thanks to my supervisor Prof. [Aleksandar D. Rakić](https://about.uq.edu.au/experts/473), since 2024, I have the chance to co-teach a third-year course: ELEC3100 Fundamentals of Electromagnetic Waves and Fields, to develop teaching skills gradually.
 
