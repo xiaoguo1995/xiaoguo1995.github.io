@@ -136,7 +136,7 @@ Professional Service
 
 ### Conference Service: 
 - Local Organising Committee:
- - [*2026 Australia-New Zealand Terahertz Workshop*](https://sites.google.com/view/anz-terahertz-workshop-2026/)
+  - [*2026 Australia-New Zealand Terahertz Workshop*](https://sites.google.com/view/anz-terahertz-workshop-2026/)
 - Session Chair:
   -  Interim chair of morning sessions [THz part] for 2024 International Symposium on Ultrafast Phenomena and THz Waves (ISUPTW 2024).
 
