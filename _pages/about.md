@@ -112,8 +112,8 @@ Professional Service
 ### Journal Reviewer (20+ journals): 
 - [*Nature*](https://www.nature.com/),
 - [*Nature Nanotechnology*](https://www.nature.com/nnano/),
-- [*Light: Science & Applications*](https://www.nature.com/lsa/editorial-board),
-- [*Nature Communications*](https://www.nature.com/ncomms/), 
+- [*Light: Science & Applications*](https://www.nature.com/lsa/editorial-board) (Nature Group journals, impact factor: 24, 2026), 
+- [*Nature Communications*](https://www.nature.com/ncomms/) (Nature Group journals, impact factor: 18, 2026), 
 - [*Applied Physics Review*](https://pubs.aip.org/aip/apr), 
 - [*ACS Photonics*](https://pubs.acs.org/journal/apchd5), 
 - [*TrAC Trends in Analytical Chemistry*](https://www.sciencedirect.com/journal/trac-trends-in-analytical-chemistry),
