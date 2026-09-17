@@ -104,8 +104,11 @@ Professional Service
 - [*PhotoniX Life*](https://www.sciengine.com/PXLIFE/home) --- As a life science–focused companion to *PhotoniX* [IF: 19] the journal welcomes cutting-edge research (and reviews) in photonics and its applications to biology and life sciences.
 
 ### Journal Reviewer (20+ journals): 
+- [*Nature*](https://www.nature.com/),
+- [*Nature Nanotechnology*](https://www.nature.com/nnano/),
 - [*Light: Science & Applications*](https://www.nature.com/lsa/editorial-board),
 - [*Nature Communications*](https://www.nature.com/ncomms/), 
+- [*Applied Physics Review*](https://pubs.aip.org/aip/apr), 
 - [*ACS Photonics*](https://pubs.acs.org/journal/apchd5), 
 - [*TrAC Trends in Analytical Chemistry*](https://www.sciencedirect.com/journal/trac-trends-in-analytical-chemistry),
 - [*Advanced Functional Materials*](https://advanced.onlinelibrary.wiley.com/journal/16163028),
@@ -115,6 +118,8 @@ Professional Service
 - [*Optics Express*](https://opg.optica.org/oe/home.cfm), 
 - [*Review of Scientific Instruments*](https://pubs.aip.org/aip/rsi),
 - [*IEEE Transactions on Terahertz Science and Technology*](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=5503871), 
+- [*Journal of Applied Physics*](https://pubs.aip.org/aip/jap),
+- [*Journal of Optics*](https://iopscience.iop.org/journal/2040-8986),
 - [*Spectrochimica Acta Part A: Molecular and Biomolecular Spectroscopy*](https://www.sciencedirect.com/journal/spectrochimica-acta-part-a-molecular-and-biomolecular-spectroscopy), 
 - [*Optics and Laser Technology*](https://www.sciencedirect.com/journal/optics-and-laser-technology),
 - [*Results in Physics*](https://www.sciencedirect.com/journal/results-in-physics),
@@ -124,6 +129,8 @@ Professional Service
 - Somewhere in Europe (****)
 
 ### Conference Service: 
+- Local Organising Committee:
+ - [*2026 Australia-New Zealand Terahertz Workshop*](https://sites.google.com/view/anz-terahertz-workshop-2026/)
 - Session Chair:
   -  Interim chair of morning sessions [THz part] for 2024 International Symposium on Ultrafast Phenomena and THz Waves (ISUPTW 2024).
 
