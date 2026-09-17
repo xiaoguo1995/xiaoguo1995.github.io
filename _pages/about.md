@@ -102,8 +102,12 @@ Professional Service
 ------
 ### Journal Editorial Board Member (Youth): 
 - [*PhotoniX Life*](https://www.sciengine.com/PXLIFE/home) --- As a life science–focused companion to *PhotoniX* [IF: 19] the journal welcomes cutting-edge research (and reviews) in photonics and its applications to biology and life sciences.
+
 ### Reviewing Editor:
 - Springer Nature Reviewer Communities
+
+### Guest Editor:
+- [*JoVE (Journal of Visualized Experiments)*](https://www.jove.com/) - don't ask me why, one main reason is a video scientific journal sounds cool...
 
 ### Journal Reviewer (20+ journals): 
 - [*Nature*](https://www.nature.com/),
