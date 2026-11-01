@@ -136,6 +136,8 @@ Professional Service
 
 ### Conference Service: 
 - Local Organising Committee:
+  - [*2027 Young Scientists Symposium on Emerging Functional Materials and Applications*](https://www.yssefma.com/)
+  - [*2027 The μQ Technology Forum*]
   - [*2026 Australia-New Zealand Terahertz Workshop, the 13th but 1st time in Queensland*](https://sites.google.com/view/anz-terahertz-workshop-2026/)
 - Session Chair:
   -  Interim chair of morning sessions [THz part] for 2024 International Symposium on Ultrafast Phenomena and THz Waves (ISUPTW 2024).
