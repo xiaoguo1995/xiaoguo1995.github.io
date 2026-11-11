@@ -100,6 +100,9 @@ Selected Publications
       
 Professional Service
 ------
+### Professional Societies
+- Interim Vice Chair of Inaugural Committee [*IEEE Photonics Society Queensland Chapter, jointly with IEEE Nanotechnology Council and IEEE Sensors Council*], Nov. 2026 to June 2027.
+
 ### Journal Editorial Board Member (Youth): 
 - [*PhotoniX Life*](https://www.sciengine.com/PXLIFE/home) --- As a life science–focused companion to *PhotoniX* [IF: 19] the journal welcomes cutting-edge research (and reviews) in photonics and its applications to biology and life sciences.
 
